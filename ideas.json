@@ -1,0 +1,404 @@
+{
+  "ideas": [
+    {
+      "id": 1,
+      "title": "The Weightless Teacup",
+      "description": "A porcelain teacup floating mid-air, steam curling upward into tiny constellations. The saucer hovers below it, casting a moon-shaped shadow.",
+      "tags": ["calm", "peaceful", "dreamy", "quiet", "cozy", "whimsical", "soft", "gentle", "serene"],
+      "type": "vector",
+      "elements": ["teacup", "steam", "stars", "shadow", "floating"]
+    },
+    {
+      "id": 2,
+      "title": "Rain That Forgets to Fall",
+      "description": "Raindrops suspended in the air, each one holding a tiny reflection of a different world inside it. One drop holds a forest, another a city, another a single candle flame.",
+      "tags": ["rain", "sad", "melancholic", "thoughtful", "reflective", "dreamy", "lonely", "stormy"],
+      "type": "illustration",
+      "elements": ["raindrops", "reflections", "worlds", "suspended", "glass"]
+    },
+    {
+      "id": 3,
+      "title": "Fox Who Collects Sunsets",
+      "description": "A small fox with a satchel made of clouds, walking along a hilltop collecting jars of golden sunset light. Each jar glows a different shade.",
+      "tags": ["happy", "playful", "warm", "golden", "adventurous", "whimsical", "nature", "evening"],
+      "type": "character",
+      "elements": ["fox", "jars", "sunset", "hill", "clouds", "golden light"]
+    },
+    {
+      "id": 4,
+      "title": "Library at the Bottom of the Ocean",
+      "description": "Ancient bookshelves stretching into dark blue water, fish swimming between the spines. One open book has pages that are actually coral growing outward.",
+      "tags": ["ocean", "mysterious", "deep", "curious", "blue", "quiet", "wonder", "dark", "serene"],
+      "type": "scene",
+      "elements": ["bookshelves", "fish", "coral", "deep water", "books", "light rays"]
+    },
+    {
+      "id": 5,
+      "title": "Girl Made of Autumn Leaves",
+      "description": "A silhouette of a girl, but her body is composed entirely of falling autumn leaves in amber, crimson and gold. Wind catches the edges of her, and she begins to drift.",
+      "tags": ["autumn", "melancholic", "change", "wind", "nature", "poetic", "bittersweet", "warm", "golden"],
+      "type": "silhouette",
+      "elements": ["silhouette", "leaves", "wind", "autumn colors", "drifting"]
+    },
+    {
+      "id": 6,
+      "title": "Moon's Breakfast",
+      "description": "The moon sitting on a cloud, eating starlight from a bowl with a spoon made of a comet's tail. A small owl waits beside it for crumbs.",
+      "tags": ["night", "whimsical", "cozy", "funny", "stars", "moon", "cute", "dreamy", "playful"],
+      "type": "character",
+      "elements": ["moon", "cloud", "bowl", "owl", "stars", "comet"]
+    },
+    {
+      "id": 7,
+      "title": "Invisible Garden",
+      "description": "An empty garden plot with only shadows of flowers visible on the ground — the flowers themselves are transparent, only their shadows prove they exist.",
+      "tags": ["mysterious", "quiet", "strange", "poetic", "alone", "ethereal", "surreal", "soft"],
+      "type": "scene",
+      "elements": ["shadows", "garden", "invisible", "ground", "light", "flowers"]
+    },
+    {
+      "id": 8,
+      "title": "Cloud Shepherd",
+      "description": "A child floating on the back of a giant cloud, using a long stick to herd smaller clouds like fluffy sheep across the blue sky.",
+      "tags": ["happy", "playful", "sky", "blue", "free", "light", "childhood", "warm", "whimsical", "adventurous"],
+      "type": "scene",
+      "elements": ["child", "clouds", "sky", "floating", "shepherd", "blue"]
+    },
+    {
+      "id": 9,
+      "title": "The Lantern Fish Market",
+      "description": "Underwater vendors selling glowing deep-sea creatures like goods at a night market. Anglerfish hang as lanterns. Jellyfish float as chandeliers.",
+      "tags": ["ocean", "night", "glow", "busy", "colorful", "whimsical", "dark", "magical", "blue"],
+      "type": "scene",
+      "elements": ["anglerfish", "jellyfish", "market", "lanterns", "underwater", "glow"]
+    },
+    {
+      "id": 10,
+      "title": "Hands Full of Weather",
+      "description": "Two open palms held up — one hand holds a tiny thunderstorm, the other holds a sunrise. The raindrops from one hand drift toward the light of the other.",
+      "tags": ["storm", "sun", "contrast", "balance", "poetic", "surreal", "powerful", "emotional", "rain"],
+      "type": "illustration",
+      "elements": ["hands", "storm", "sunrise", "rain", "light", "duality"]
+    },
+    {
+      "id": 11,
+      "title": "Cat Café on the Moon",
+      "description": "A cozy little café on the lunar surface, cats floating gently in low gravity between tables. Earth hangs large in the window like a painting.",
+      "tags": ["cozy", "funny", "moon", "cats", "night", "space", "cute", "warm", "whimsical"],
+      "type": "scene",
+      "elements": ["café", "cats", "moon", "gravity", "earth", "window", "floating"]
+    },
+    {
+      "id": 12,
+      "title": "Staircase to the Wind",
+      "description": "A spiral staircase in an open field that leads nowhere, but at the top, the air shimmers and ribbons of color ripple outward like invisible wings.",
+      "tags": ["wind", "open", "free", "mysterious", "field", "color", "dreamy", "surreal", "adventurous"],
+      "type": "scene",
+      "elements": ["staircase", "field", "color ribbons", "wind", "open sky", "shimmer"]
+    },
+    {
+      "id": 13,
+      "title": "Whale in the Wheat Field",
+      "description": "A blue whale swimming slowly through a golden wheat field at dusk, its shadow long and cool across the ground below, birds circling around its fins.",
+      "tags": ["surreal", "golden", "vast", "quiet", "evening", "warm", "nature", "calm", "dreamy"],
+      "type": "scene",
+      "elements": ["whale", "wheat", "dusk", "shadow", "birds", "golden light"]
+    },
+    {
+      "id": 14,
+      "title": "The Girl Who Knitted Stars",
+      "description": "A woman in a rocking chair on a dark porch, knitting a scarf made of actual starlight. Each star plucked from the sky leaves a small dark hole she later patches with moonbeams.",
+      "tags": ["night", "stars", "cozy", "poetic", "creative", "quiet", "whimsical", "magical"],
+      "type": "character",
+      "elements": ["woman", "rocking chair", "stars", "knitting", "night sky", "moonbeams"]
+    },
+    {
+      "id": 15,
+      "title": "Forest of Frozen Music",
+      "description": "Trees whose branches are made of crystallized musical notes. When the wind blows, they chime softly. Sheet music grows from the roots like mushrooms.",
+      "tags": ["forest", "music", "magical", "quiet", "crystal", "wind", "nature", "dreamy", "serene"],
+      "type": "scene",
+      "elements": ["trees", "music notes", "crystal", "wind", "sheet music", "forest floor"]
+    },
+    {
+      "id": 16,
+      "title": "Tiny Planet Bedroom",
+      "description": "A small spherical planet just big enough for a bedroom — bed, lamp, bookshelf curving with the planet's surface. Stars close enough to touch from the window.",
+      "tags": ["cozy", "space", "tiny", "night", "stars", "warm", "dreamy", "alone", "peaceful"],
+      "type": "scene",
+      "elements": ["planet", "bedroom", "stars", "curved surface", "lamp", "cozy"]
+    },
+    {
+      "id": 17,
+      "title": "Map of Emotions",
+      "description": "A hand-drawn map where each country is an emotion — the mountains are made of old memories, rivers are tears, deserts are numbness, forests are joy.",
+      "tags": ["emotional", "complex", "thoughtful", "map", "poetic", "introspective", "colorful", "creative"],
+      "type": "map",
+      "elements": ["mountains", "rivers", "forests", "deserts", "map borders", "compass"]
+    },
+    {
+      "id": 18,
+      "title": "Butterfly Who Collects Shadows",
+      "description": "A large butterfly with wings made of translucent glass, collecting the shadows of flowers and pinning them gently inside its wings like specimens.",
+      "tags": ["nature", "delicate", "quiet", "beautiful", "soft", "mysterious", "poetic", "gentle"],
+      "type": "character",
+      "elements": ["butterfly", "glass wings", "shadows", "flowers", "light", "transparency"]
+    },
+    {
+      "id": 19,
+      "title": "Clockmaker's Dream",
+      "description": "A sleeping clockmaker, and above her head all the gears and hands she ever worked on float in a dream-cloud, ticking softly, forming the shape of a bird mid-flight.",
+      "tags": ["dreamy", "sleep", "mechanical", "creative", "poetic", "vintage", "warm", "craft"],
+      "type": "character",
+      "elements": ["gears", "clock hands", "dream cloud", "bird shape", "clockmaker", "floating"]
+    },
+    {
+      "id": 20,
+      "title": "Letters That Never Arrived",
+      "description": "A pile of sealed envelopes floating upward into a night sky, each one glowing faintly with the warmth of the words inside. Fireflies mistake them for lanterns.",
+      "tags": ["nostalgic", "lonely", "longing", "night", "warm", "poetic", "letters", "fireflies", "melancholic"],
+      "type": "illustration",
+      "elements": ["envelopes", "night sky", "glow", "fireflies", "floating", "warmth"]
+    },
+    {
+      "id": 21,
+      "title": "River That Runs Uphill",
+      "description": "A river flowing upward against gravity, defying physics, its fish swimming happily upward too. At the top it breaks into a waterfall of stars.",
+      "tags": ["surreal", "water", "strange", "wonder", "fish", "stars", "nature", "curious", "dreamy"],
+      "type": "scene",
+      "elements": ["river", "fish", "uphill", "stars", "waterfall", "gravity"]
+    },
+    {
+      "id": 22,
+      "title": "The Bread Baker's Sun",
+      "description": "A baker who bakes the sun each morning — rolling it out like dough, dusting it with golden flour, letting it rise before sliding it into the sky.",
+      "tags": ["morning", "warm", "cozy", "funny", "golden", "whimsical", "sun", "food", "playful"],
+      "type": "character",
+      "elements": ["baker", "sun", "dough", "flour", "morning", "golden", "oven"]
+    },
+    {
+      "id": 23,
+      "title": "Treehouse at the Edge of a Dream",
+      "description": "A treehouse perched in a tree that grows at the very border between sky and dream. One side is daytime blue, the other is deep purple night. The ladder goes both ways.",
+      "tags": ["dreamy", "tree", "nature", "night", "sky", "whimsical", "quiet", "magical", "border"],
+      "type": "scene",
+      "elements": ["treehouse", "tree", "sky", "night", "border", "ladder", "duality"]
+    },
+    {
+      "id": 24,
+      "title": "Glass Mountain Village",
+      "description": "A village built on a translucent glass mountain — you can see the roots of all the houses reaching down through the glass, and the clouds pass through it from inside.",
+      "tags": ["surreal", "village", "glass", "mountain", "transparent", "mysterious", "quiet", "cold", "beautiful"],
+      "type": "scene",
+      "elements": ["glass", "mountain", "village", "roots", "clouds", "transparency"]
+    },
+    {
+      "id": 25,
+      "title": "Dandelion Universe",
+      "description": "A single dandelion whose seeds, when blown, each become a tiny galaxy spinning gently through the air before landing and blooming into new stars.",
+      "tags": ["nature", "space", "tiny", "dreamy", "soft", "magical", "wind", "universe", "gentle"],
+      "type": "illustration",
+      "elements": ["dandelion", "seeds", "galaxies", "stars", "wind", "bloom"]
+    },
+    {
+      "id": 26,
+      "title": "The Cartographer of Clouds",
+      "description": "An old man on a rooftop with a drafting table, carefully mapping each cloud as it passes — naming them, measuring them, marking their drift in an enormous leather journal.",
+      "tags": ["thoughtful", "sky", "clouds", "creative", "quiet", "vintage", "curious", "peaceful", "dedicated"],
+      "type": "character",
+      "elements": ["old man", "rooftop", "clouds", "map", "drafting table", "journal"]
+    },
+    {
+      "id": 27,
+      "title": "Island That Only Appears at Night",
+      "description": "An island that emerges from the ocean only after midnight — made of soft dark stone, lit by bioluminescent plants. By sunrise it sinks again, leaving only ripples.",
+      "tags": ["night", "ocean", "mysterious", "magical", "blue", "dark", "glow", "secret", "surreal"],
+      "type": "scene",
+      "elements": ["island", "ocean", "bioluminescence", "night", "plants", "glow", "dark stone"]
+    },
+    {
+      "id": 28,
+      "title": "Jelly Architecture",
+      "description": "Buildings in a city made entirely of translucent jelly — they wobble slightly in the breeze, cast rainbow light on the street below, and make soft sounds when touched.",
+      "tags": ["colorful", "funny", "surreal", "city", "playful", "transparent", "rainbow", "bouncy", "whimsical"],
+      "type": "scene",
+      "elements": ["buildings", "jelly", "rainbow", "translucent", "city", "wobble"]
+    },
+    {
+      "id": 29,
+      "title": "Paper Crane Migration",
+      "description": "Thousands of origami paper cranes flying south in a V-formation like real birds, their folded wings catching the light differently at each angle, each one a different soft color.",
+      "tags": ["peaceful", "soft", "colorful", "sky", "flock", "paper", "delicate", "warm", "migration"],
+      "type": "illustration",
+      "elements": ["origami cranes", "V-formation", "sky", "color", "flock", "light"]
+    },
+    {
+      "id": 30,
+      "title": "The Painter Who Painted Weather",
+      "description": "An artist standing before a blank sky with a huge brush, painting storm clouds in one corner, sunshine in another, and leaving the middle white and uncertain.",
+      "tags": ["creative", "sky", "weather", "painting", "metaphor", "artist", "powerful", "colorful", "expressive"],
+      "type": "character",
+      "elements": ["artist", "brush", "sky", "storm", "sunshine", "clouds", "canvas"]
+    },
+    {
+      "id": 31,
+      "title": "Sleeping Giant's Garden",
+      "description": "A giant who has been asleep for centuries, now covered in moss and wildflowers. Rabbits nest in their palms. A small river runs along their collarbone.",
+      "tags": ["nature", "vast", "quiet", "peaceful", "green", "magical", "ancient", "gentle", "overgrown"],
+      "type": "scene",
+      "elements": ["giant", "moss", "wildflowers", "rabbits", "river", "sleeping"]
+    },
+    {
+      "id": 32,
+      "title": "Constellation Puppets",
+      "description": "A puppeteer using strings of starlight to animate constellation figures — Orion dances, Cassiopeia waves, the Big Dipper pours glittering dust.",
+      "tags": ["stars", "night", "playful", "magical", "creative", "performance", "whimsical", "space", "dreamy"],
+      "type": "character",
+      "elements": ["puppeteer", "stars", "constellations", "strings", "night", "glitter"]
+    },
+    {
+      "id": 33,
+      "title": "Kitchen Full of Impossible Ingredients",
+      "description": "A kitchen counter with ingredients like: a jar of Mondays, a stick of morning dew, powdered starlight, essence of first laugh, and a pinch of forgotten dreams.",
+      "tags": ["cozy", "funny", "whimsical", "creative", "kitchen", "magical", "warm", "playful", "curious"],
+      "type": "still life",
+      "elements": ["kitchen", "jars", "labels", "counter", "magical ingredients", "morning light"]
+    },
+    {
+      "id": 34,
+      "title": "The Fog Architect",
+      "description": "A figure who sculpts fog into temporary shapes — bridges, archways, staircases — that stand for minutes before dissolving. Others cross them while they last.",
+      "tags": ["fog", "mysterious", "temporary", "poetic", "cold", "surreal", "grey", "morning", "ephemeral"],
+      "type": "character",
+      "elements": ["fog", "bridge", "archway", "sculptor", "dissolving", "morning"]
+    },
+    {
+      "id": 35,
+      "title": "Tide Pool Universe",
+      "description": "A tiny tide pool that, when viewed from above, looks exactly like a galaxy — the sea anemones are star clusters, the pebbles are planets, the trapped crab is a comet.",
+      "tags": ["ocean", "tiny", "surreal", "space", "nature", "curious", "blue", "quiet", "wonder"],
+      "type": "illustration",
+      "elements": ["tide pool", "sea anemones", "pebbles", "crab", "water", "reflection"]
+    },
+    {
+      "id": 36,
+      "title": "Spiral Staircase of Seasons",
+      "description": "A spiral staircase where each floor is a different season — step up from snowy winter, through spring blossoms, to summer sun, to autumn gold, then back to winter.",
+      "tags": ["seasons", "change", "nature", "cyclical", "colorful", "dreamy", "poetic", "architecture", "magical"],
+      "type": "scene",
+      "elements": ["staircase", "snow", "blossoms", "sun", "autumn leaves", "spiral"]
+    },
+    {
+      "id": 37,
+      "title": "Lighthouse in a Storm of Stars",
+      "description": "A lighthouse standing not by an ocean but in the middle of a meteor shower — its beam sweeping through falling stars, guiding something home from deep space.",
+      "tags": ["stars", "night", "stormy", "lonely", "dramatic", "poetic", "space", "powerful", "guiding"],
+      "type": "scene",
+      "elements": ["lighthouse", "meteors", "beam", "night sky", "stars", "space"]
+    },
+    {
+      "id": 38,
+      "title": "The Emotion Aquarium",
+      "description": "An aquarium where the fish represent emotions — a fast silver fish is anxiety, a slow golden one is contentment, a tiny glowing one is hope, a dark shadow is grief.",
+      "tags": ["emotional", "introspective", "blue", "quiet", "metaphor", "colorful", "poetic", "water", "thoughtful"],
+      "type": "scene",
+      "elements": ["aquarium", "fish", "emotions", "light", "water", "glass", "color"]
+    },
+    {
+      "id": 39,
+      "title": "Midnight Greenhouse",
+      "description": "A greenhouse open only at night, growing plants that bloom only in darkness — black roses, phosphorescent ferns, flowers that sing softly at 3am.",
+      "tags": ["night", "dark", "glow", "nature", "quiet", "mysterious", "garden", "soft", "magical"],
+      "type": "scene",
+      "elements": ["greenhouse", "black roses", "ferns", "glow", "night", "glass panels", "dark flowers"]
+    },
+    {
+      "id": 40,
+      "title": "The Memory Weaver",
+      "description": "An elder weaving a tapestry where each thread is a memory — you can see faces, places and moments woven into the fabric. Some threads are bright. Some are fraying.",
+      "tags": ["nostalgic", "emotional", "warm", "craft", "poetic", "memories", "introspective", "colorful", "aged"],
+      "type": "character",
+      "elements": ["tapestry", "threads", "faces", "elder", "loom", "memories", "color"]
+    },
+    {
+      "id": 41,
+      "title": "Cloud Architecture Studio",
+      "description": "Clouds shaped like unfinished buildings — columns that rise but don't support anything, arches in mid-air, blueprints sketched in cirrus against the blue.",
+      "tags": ["sky", "clouds", "architecture", "surreal", "blue", "dreamy", "creative", "open", "abstract"],
+      "type": "scene",
+      "elements": ["clouds", "columns", "arches", "sky", "blueprints", "cirrus"]
+    },
+    {
+      "id": 42,
+      "title": "Beekeeper of Dreams",
+      "description": "A beekeeper whose hive produces not honey but dreams — golden, glowing jars of sleep collected each morning from the dreaming bees. The jars hum softly.",
+      "tags": ["dreamy", "golden", "cozy", "soft", "magical", "nature", "warm", "whimsical", "bees"],
+      "type": "character",
+      "elements": ["beekeeper", "bees", "jars", "golden", "hive", "glow", "dreaming"]
+    },
+    {
+      "id": 43,
+      "title": "Paper Town in the Rain",
+      "description": "A miniature town built of paper — houses, trees, tiny people — in the middle of a puddle, the rain creating ripples that make the whole town shimmer and warp.",
+      "tags": ["rain", "tiny", "delicate", "sad", "melancholic", "water", "paper", "poetic", "fragile"],
+      "type": "scene",
+      "elements": ["paper", "miniature", "puddle", "rain", "ripples", "town", "shimmer"]
+    },
+    {
+      "id": 44,
+      "title": "The Last Archivist of Sunsets",
+      "description": "An old woman cataloging sunsets in enormous leather-bound books — each page a pressed, preserved sunset, labeled with its date, location, and exact shade of rose.",
+      "tags": ["warm", "nostalgic", "evening", "orange", "pink", "craft", "dedicated", "poetic", "golden"],
+      "type": "character",
+      "elements": ["books", "sunset", "pressed pages", "old woman", "library", "color swatches"]
+    },
+    {
+      "id": 45,
+      "title": "Architect of Silence",
+      "description": "A figure building walls out of silence — each brick a moment of quiet, cemented together with pauses. The finished room inside holds only the sound of breathing.",
+      "tags": ["quiet", "introspective", "abstract", "poetic", "calm", "alone", "grey", "surreal", "ethereal"],
+      "type": "character",
+      "elements": ["bricks", "silence", "room", "figure", "abstract walls", "minimal"]
+    },
+    {
+      "id": 46,
+      "title": "Origami Galaxies",
+      "description": "Galaxies folded from rice paper — spiral arms neatly creased, stars punched through with a pin, held together with the geometry of careful hands.",
+      "tags": ["space", "delicate", "paper", "stars", "creative", "quiet", "detailed", "craft", "wonder"],
+      "type": "illustration",
+      "elements": ["origami", "galaxy", "paper", "stars", "spiral", "folds", "light through holes"]
+    },
+    {
+      "id": 47,
+      "title": "The Cartography of Scars",
+      "description": "A human body mapped like a continent — each scar a river, each bruise a mountain range, each stretch mark a road, each freckle a city. It is an inhabited landscape.",
+      "tags": ["emotional", "body", "poetic", "powerful", "introspective", "warm", "map", "acceptance", "beautiful"],
+      "type": "illustration",
+      "elements": ["body", "map lines", "rivers", "mountains", "freckles", "cartography"]
+    },
+    {
+      "id": 48,
+      "title": "Mushroom Lanterns at Dusk",
+      "description": "Giant mushrooms glowing softly in a dark forest at dusk, their undersides lit from within, casting warm pink and amber light on the moss below. Fireflies circle them.",
+      "tags": ["forest", "dark", "glow", "warm", "evening", "magical", "nature", "cozy", "fireflies", "mushroom"],
+      "type": "scene",
+      "elements": ["mushrooms", "glow", "forest", "fireflies", "moss", "warm light", "dusk"]
+    },
+    {
+      "id": 49,
+      "title": "The Invisible Orchestra",
+      "description": "An empty stage with chairs and music stands, but the instruments float in midair, playing themselves. The music is visible — colored sound waves rippling outward.",
+      "tags": ["music", "magical", "mysterious", "performance", "colorful", "surreal", "beautiful", "dreamy"],
+      "type": "scene",
+      "elements": ["stage", "instruments", "sound waves", "floating", "color", "empty chairs", "music"]
+    },
+    {
+      "id": 50,
+      "title": "Cloud Person's Afternoon",
+      "description": "A being made entirely of cloud sitting on a park bench, reading a newspaper. Pigeons perch on their shoulder. They leave a small damp patch on the bench when they rise to leave.",
+      "tags": ["funny", "gentle", "whimsical", "city", "soft", "everyday", "cute", "grey", "peaceful"],
+      "type": "character",
+      "elements": ["cloud person", "bench", "newspaper", "pigeons", "park", "damp patch"]
+    }
+  ]
+}
