@@ -399,6 +399,2006 @@
       "tags": ["funny", "gentle", "whimsical", "city", "soft", "everyday", "cute", "grey", "peaceful"],
       "type": "character",
       "elements": ["cloud person", "bench", "newspaper", "pigeons", "park", "damp patch"]
+    },
+    {
+      "id": 51,
+      "title": "The Tea Ceremony of Storms",
+      "description": "Two storm clouds sitting across from each other at a low wooden table, performing a tea ceremony with lightning poured carefully from a ceramic pot into tiny thunder-cups.",
+      "tags": ["stormy", "whimsical", "quiet", "surreal", "rain", "funny", "poetic", "dramatic"],
+      "type": "character",
+      "elements": ["storm clouds", "tea ceremony", "lightning", "thunder", "ceramic", "ritual"]
+    },
+    {
+      "id": 52,
+      "title": "Snow Globe City",
+      "description": "A massive snow globe containing an entire living city — the people inside don't know they're inside one. A giant hand is pressed against the glass, peering in.",
+      "tags": ["surreal", "city", "winter", "wonder", "cold", "mysterious", "tiny", "melancholic", "glass"],
+      "type": "scene",
+      "elements": ["snow globe", "city", "glass", "giant hand", "snow", "miniature"]
+    },
+    {
+      "id": 53,
+      "title": "The Seed Librarian",
+      "description": "An old botanist who keeps seeds in a library — each tiny seed filed alphabetically in paper envelopes, their potential futures annotated in pencil in the margins.",
+      "tags": ["nature", "quiet", "warm", "vintage", "dedicated", "green", "craft", "hopeful", "botanical"],
+      "type": "character",
+      "elements": ["seeds", "envelopes", "library", "shelves", "botanist", "pencil notes"]
+    },
+    {
+      "id": 54,
+      "title": "Painting That Rains Inside",
+      "description": "A framed oil painting on a museum wall — but inside the canvas it is raining, and tiny puddles are forming at the bottom of the frame, spilling out onto the floor.",
+      "tags": ["surreal", "rain", "art", "museum", "melancholic", "strange", "poetic", "water"],
+      "type": "scene",
+      "elements": ["painting", "frame", "rain", "puddles", "museum floor", "canvas"]
+    },
+    {
+      "id": 55,
+      "title": "Cartographer of Forgotten Places",
+      "description": "A woman drawing maps of places that only exist in dreams — cities dreamed once and never returned to. The maps curl at the edges and smell faintly of sleep.",
+      "tags": ["dreamy", "mysterious", "nostalgic", "maps", "quiet", "poetic", "creative", "surreal"],
+      "type": "character",
+      "elements": ["maps", "dream cities", "parchment", "woman", "candlelight", "compass"]
+    },
+    {
+      "id": 56,
+      "title": "Moth That Eats Darkness",
+      "description": "A large pale moth that feeds on patches of darkness — it lands on shadows and slowly dissolves them, leaving faint glowing traces on the ground where darkness used to be.",
+      "tags": ["night", "mysterious", "magical", "glow", "nature", "ethereal", "dark", "soft", "poetic"],
+      "type": "character",
+      "elements": ["moth", "shadows", "glow", "traces", "darkness", "pale wings"]
+    },
+    {
+      "id": 57,
+      "title": "The Colour Thief's Workshop",
+      "description": "A small room where someone extracts colour from objects — squeezing the blue from a sky in jars, pressing the green from leaves into vials. The stolen things remain grey.",
+      "tags": ["colorful", "mysterious", "surreal", "creative", "sad", "poetic", "grey", "contrast", "craft"],
+      "type": "scene",
+      "elements": ["jars", "vials", "color", "grey objects", "workshop", "squeezing"]
+    },
+    {
+      "id": 58,
+      "title": "The Bridge Made of Birdsong",
+      "description": "A bridge that becomes solid only when birds sing — each note adds a plank of golden light. In silence it vanishes. People must carry songbirds in their pockets to cross.",
+      "tags": ["music", "birds", "magical", "golden", "nature", "poetic", "surreal", "morning", "warm"],
+      "type": "scene",
+      "elements": ["bridge", "birds", "song", "golden light", "planks", "silence"]
+    },
+    {
+      "id": 59,
+      "title": "Jar of Collected Mornings",
+      "description": "A mason jar filled with the light of various mornings — each layer a different shade of dawn, rose, amber, pale gold — preserved like jam, to be spread on bread when the day is grey.",
+      "tags": ["morning", "warm", "cozy", "golden", "hopeful", "soft", "nostalgic", "light", "food"],
+      "type": "still life",
+      "elements": ["mason jar", "morning light", "layers", "dawn colors", "bread", "preserved"]
+    },
+    {
+      "id": 60,
+      "title": "The Glacier That Remembers",
+      "description": "An ancient glacier with memories frozen inside it — faces, sounds, whole landscapes visible through the blue ice. Scientists press their ears to it to hear the past.",
+      "tags": ["cold", "ancient", "blue", "mysterious", "memory", "vast", "powerful", "quiet", "nature"],
+      "type": "scene",
+      "elements": ["glacier", "ice", "frozen faces", "blue", "scientists", "memory"]
+    },
+    {
+      "id": 61,
+      "title": "Sparrow Post Office",
+      "description": "A tiny post office run by sparrows — each letter is tied to a leg, and the counter is a twig, and the sorting room is a hollow oak. The postmaster wears a cap made of an acorn.",
+      "tags": ["whimsical", "tiny", "birds", "funny", "nature", "cute", "cozy", "playful", "warm"],
+      "type": "scene",
+      "elements": ["sparrows", "letters", "twig counter", "oak tree", "acorn cap", "tiny office"]
+    },
+    {
+      "id": 62,
+      "title": "Rain Portrait",
+      "description": "A figure standing in the rain whose face is formed only by the way raindrops fall around it — the rain avoids certain spaces, creating eyes, a nose, a slight smile.",
+      "tags": ["rain", "mysterious", "poetic", "melancholic", "surreal", "quiet", "gentle", "ethereal"],
+      "type": "illustration",
+      "elements": ["rain", "negative space", "face", "figure", "falling drops", "outline"]
+    },
+    {
+      "id": 63,
+      "title": "The Terrarium Planet",
+      "description": "A glass terrarium containing a tiny self-sufficient planet — its own weather system, miniature mountain ranges, a thumb-sized ocean with waves. A child observes it with a magnifying glass.",
+      "tags": ["tiny", "space", "nature", "wonder", "science", "curious", "glass", "green", "dreamy"],
+      "type": "scene",
+      "elements": ["terrarium", "planet", "glass", "magnifying glass", "child", "miniature world"]
+    },
+    {
+      "id": 64,
+      "title": "Grandmother's Recipe for Thunder",
+      "description": "A worn recipe card in a kitchen drawer titled 'Thursday Thunder.' Ingredients: one bruised sky, a cup of humidity, patience, and the distant smell of rain. Method: wait.",
+      "tags": ["cozy", "funny", "stormy", "warm", "vintage", "kitchen", "whimsical", "poetic", "nostalgic"],
+      "type": "still life",
+      "elements": ["recipe card", "kitchen", "handwriting", "drawer", "smudged ink", "vintage"]
+    },
+    {
+      "id": 65,
+      "title": "The Tide That Carries Wishes",
+      "description": "At a particular beach, when the tide goes out it takes something from each person's mind — a wish, a worry, a secret hope. The ocean sorts them and returns only the wishes.",
+      "tags": ["ocean", "hopeful", "poetic", "evening", "waves", "magical", "emotional", "warm", "serene"],
+      "type": "scene",
+      "elements": ["tide", "beach", "wishes", "waves", "evening light", "ocean"]
+    },
+    {
+      "id": 66,
+      "title": "Velvet Cave of Echoes",
+      "description": "A cave whose walls are lined with dark velvet that absorbs all sound — except whispers, which it catches and replays back as songs hours later, in different voices.",
+      "tags": ["dark", "mysterious", "music", "quiet", "surreal", "strange", "underground", "poetic", "ethereal"],
+      "type": "scene",
+      "elements": ["cave", "velvet", "whispers", "echo", "songs", "darkness", "candle"]
+    },
+    {
+      "id": 67,
+      "title": "The Sailor of Rooftops",
+      "description": "An old sailor who retired from the sea and now navigates rooftops by starlight — rigging clotheslines as sails, reading chimney smoke like wind direction, mapping the city like an ocean.",
+      "tags": ["city", "night", "stars", "adventurous", "quirky", "warm", "vintage", "poetic", "rooftop"],
+      "type": "character",
+      "elements": ["sailor", "rooftop", "clotheslines", "chimney smoke", "stars", "city map"]
+    },
+    {
+      "id": 68,
+      "title": "Moon Moth Migration",
+      "description": "Thousands of luminescent moon moths migrating across a night sky, their pale wings casting silver light below them, turning dark fields into something that looks like moonlit water.",
+      "tags": ["night", "moths", "migration", "silver", "glow", "nature", "vast", "peaceful", "dreamy"],
+      "type": "scene",
+      "elements": ["moths", "silver light", "migration", "night sky", "pale wings", "fields"]
+    },
+    {
+      "id": 69,
+      "title": "The Painter's Last Blue",
+      "description": "An elderly painter has run out of all colors except one final tube of blue. She paints everything blue — the sky, the sea, her cat, her own hands — and finds it is enough.",
+      "tags": ["blue", "melancholic", "art", "aging", "peaceful", "quiet", "poetic", "warm", "acceptance"],
+      "type": "character",
+      "elements": ["painter", "blue paint", "tube", "canvas", "cat", "hands", "studio"]
+    },
+    {
+      "id": 70,
+      "title": "House Built from Old Arguments",
+      "description": "A crooked house whose bricks are made of old arguments — some bricks hot to the touch, some cold, some crumbling. The windows are made of resolved misunderstandings, perfectly clear.",
+      "tags": ["emotional", "surreal", "poetic", "relationships", "conflict", "powerful", "metaphor", "grey"],
+      "type": "scene",
+      "elements": ["crooked house", "bricks", "windows", "heat", "cold spots", "clarity"]
+    },
+    {
+      "id": 71,
+      "title": "The Clockwork Forest",
+      "description": "A forest where each tree is mechanical — gears visible beneath bark, leaves that tick as they turn, roots that wind like clock springs underground, all keeping perfect time.",
+      "tags": ["mechanical", "forest", "surreal", "creative", "detailed", "mysterious", "vintage", "green", "dreamy"],
+      "type": "scene",
+      "elements": ["gears", "bark", "leaves", "roots", "clock springs", "mechanical forest"]
+    },
+    {
+      "id": 72,
+      "title": "Keeper of Lost Afternoons",
+      "description": "A small museum where lost afternoons are kept — each displayed in a glass case with a label: Tuesday, 3pm, the smell of cut grass, a forgotten name. Visitors weep gently.",
+      "tags": ["nostalgic", "melancholic", "time", "museum", "quiet", "poetic", "emotional", "warm"],
+      "type": "scene",
+      "elements": ["museum", "glass cases", "labels", "afternoon light", "smell", "memory"]
+    },
+    {
+      "id": 73,
+      "title": "Desert Rain in Slow Motion",
+      "description": "A single rainstorm over a desert, each drop falling in slow motion — so slow you can watch a wildflower bloom from seed to flower as one drop descends toward it.",
+      "tags": ["desert", "rain", "slow", "nature", "hopeful", "poetic", "warm", "wonder", "bloom"],
+      "type": "scene",
+      "elements": ["desert", "raindrop", "wildflower", "slow motion", "dry earth", "bloom"]
+    },
+    {
+      "id": 74,
+      "title": "The Night Market of Lost Things",
+      "description": "A market that appears only after midnight selling things people have lost — not just objects, but lost words, lost songs half-remembered, lost names, lost versions of yourself.",
+      "tags": ["night", "mysterious", "nostalgic", "market", "magical", "longing", "surreal", "city", "dark"],
+      "type": "scene",
+      "elements": ["market stalls", "lost objects", "midnight", "lanterns", "vendors", "fog"]
+    },
+    {
+      "id": 75,
+      "title": "The Hummingbird Clockmaker",
+      "description": "A hummingbird who repairs the tiny clocks inside flowers — each bloom has a miniature mechanism that controls when it opens. The hummingbird carries a jeweller's loupe and tweezers.",
+      "tags": ["nature", "tiny", "whimsical", "detail", "craft", "flowers", "birds", "warm", "creative"],
+      "type": "character",
+      "elements": ["hummingbird", "flower clock", "jeweller's loupe", "tweezers", "mechanism", "bloom"]
+    },
+    {
+      "id": 76,
+      "title": "Cathedral of Ice",
+      "description": "A cathedral carved entirely from glacier ice, deep in an arctic landscape. Stained glass windows made of colored ice throw fractured rainbow light across the frozen pews.",
+      "tags": ["cold", "vast", "beautiful", "architecture", "blue", "light", "ancient", "sacred", "quiet"],
+      "type": "scene",
+      "elements": ["ice cathedral", "stained glass", "glacier", "rainbow light", "frozen pews", "arctic"]
+    },
+    {
+      "id": 77,
+      "title": "The Boy Who Kept the Sun in His Pocket",
+      "description": "A young boy with a small sun kept in his coat pocket — it peeks out as warm golden light. On cloudy days he lets it out a little more. On sunny days he lets others borrow it.",
+      "tags": ["warm", "golden", "childhood", "hopeful", "playful", "sun", "cozy", "kind", "whimsical"],
+      "type": "character",
+      "elements": ["boy", "coat pocket", "sun", "golden light", "clouds", "warmth"]
+    },
+    {
+      "id": 78,
+      "title": "Fog Whisperer's Garden",
+      "description": "A garden tended by someone who whispers to the fog, coaxing it into shapes — fog roses that open slowly, fog animals that drink from fog ponds, fog children who play until noon.",
+      "tags": ["fog", "garden", "mysterious", "soft", "morning", "nature", "magical", "grey", "ethereal"],
+      "type": "scene",
+      "elements": ["fog", "roses", "animals", "garden", "pond", "morning", "shapes"]
+    },
+    {
+      "id": 79,
+      "title": "The Compass That Points to Feeling",
+      "description": "An old brass compass whose needle doesn't point north — it points toward whatever you most need. Sometimes it points behind you. Sometimes it spins wildly and points inward.",
+      "tags": ["emotional", "poetic", "introspective", "vintage", "mysterious", "surreal", "lonely", "hopeful"],
+      "type": "still life",
+      "elements": ["compass", "brass", "needle", "direction", "feelings", "map"]
+    },
+    {
+      "id": 80,
+      "title": "Lantern Festival on a Flooded Street",
+      "description": "A street flooded ankle-deep with still water, lit lanterns floating on the surface, their reflections perfect doubles below. The whole city watches from windows.",
+      "tags": ["night", "water", "warm", "golden", "peaceful", "city", "rain", "beautiful", "reflection"],
+      "type": "scene",
+      "elements": ["lanterns", "flooded street", "reflection", "windows", "water", "warm light"]
+    },
+    {
+      "id": 81,
+      "title": "The Dream Taxidermist",
+      "description": "A taxidermist who preserves dreams instead of animals — pinning the wings of night terrors, mounting the forms of beautiful recurring dreams, labeling them with small brass tags.",
+      "tags": ["dreamy", "dark", "surreal", "mysterious", "craft", "poetic", "vintage", "strange", "night"],
+      "type": "character",
+      "elements": ["taxidermist", "dreams", "pins", "glass cases", "brass tags", "specimens"]
+    },
+    {
+      "id": 82,
+      "title": "Cloud Reading Lesson",
+      "description": "A classroom in the sky — children sitting on clouds as desks, a teacher pointing to cumulus formations with a long wand, a chalkboard that is actually sky, chalk marks in white cloud.",
+      "tags": ["sky", "clouds", "childhood", "learning", "whimsical", "blue", "playful", "warm", "curious"],
+      "type": "scene",
+      "elements": ["clouds", "children", "teacher", "chalkboard sky", "wand", "classroom"]
+    },
+    {
+      "id": 83,
+      "title": "The River Made of Hours",
+      "description": "A river that flows not with water but with hours — you can see 3pm passing, Tuesday morning, a late October afternoon. People wade in and sometimes lose an afternoon to the current.",
+      "tags": ["time", "surreal", "poetic", "blue", "mysterious", "emotional", "water", "melancholic"],
+      "type": "scene",
+      "elements": ["river", "hours", "current", "wading", "time", "afternoon light"]
+    },
+    {
+      "id": 84,
+      "title": "The Astronomer of Small Things",
+      "description": "A scientist who studies the universe within small things — the spiral galaxy inside a snail shell, the nebula in a drop of ink, the black hole at the center of a grape.",
+      "tags": ["science", "tiny", "wonder", "space", "curious", "nature", "surreal", "detail", "poetic"],
+      "type": "character",
+      "elements": ["snail shell", "ink drop", "grape", "galaxy", "telescope", "magnifying glass"]
+    },
+    {
+      "id": 85,
+      "title": "Rain Collector's Museum",
+      "description": "A museum of rain samples from around the world — monsoon rain from Kerala, desert rain from Namibia, rain from the day of a historic event. Each in a sealed jar with audio of the storm.",
+      "tags": ["rain", "museum", "world", "quiet", "nostalgic", "curious", "travel", "thoughtful", "collection"],
+      "type": "scene",
+      "elements": ["jars", "rain", "labels", "museum", "headphones", "audio", "global"]
+    },
+    {
+      "id": 86,
+      "title": "The Woman Who Swallowed a Star",
+      "description": "A woman who once swallowed a star by accident — it lives in her chest now, glowing faintly through her ribs, warming everyone near her. She can't see it but others always can.",
+      "tags": ["magical", "warm", "golden", "poetic", "emotional", "stars", "body", "glowing", "kind"],
+      "type": "character",
+      "elements": ["woman", "glowing chest", "ribs", "star", "warmth", "others nearby"]
+    },
+    {
+      "id": 87,
+      "title": "Bookshelf of Unread Possibilities",
+      "description": "A towering bookshelf full of books whose spines show paths not taken — 'If You Had Stayed,' 'The Version of You That Moved to Rome,' 'What Happens if You Say Yes.' All unread.",
+      "tags": ["nostalgic", "introspective", "library", "poetic", "emotional", "regret", "possibilities", "melancholic"],
+      "type": "still life",
+      "elements": ["bookshelf", "book spines", "titles", "dust", "ladder", "unread", "possibility"]
+    },
+    {
+      "id": 88,
+      "title": "The Map of Every Kindness",
+      "description": "A map of a city where every act of kindness ever performed is marked — the city is so densely dotted with gold stars it glows from above. Some streets are solid gold.",
+      "tags": ["warm", "hopeful", "city", "golden", "emotional", "map", "kind", "beautiful", "community"],
+      "type": "map",
+      "elements": ["city map", "gold stars", "streets", "glow", "kindness", "community"]
+    },
+    {
+      "id": 89,
+      "title": "Antique Shop of Borrowed Feelings",
+      "description": "A dusty antique shop where you can buy the feeling of someone else's first love, or their particular shade of homesickness. Each bottled feeling is priced by how rare it is.",
+      "tags": ["nostalgic", "emotional", "mysterious", "surreal", "vintage", "longing", "quiet", "poetic"],
+      "type": "scene",
+      "elements": ["antique shop", "bottles", "feelings", "price tags", "dust", "shelves"]
+    },
+    {
+      "id": 90,
+      "title": "Owl Who Delivers Sunrises",
+      "description": "A great grey owl who carries the sunrise in a satchel, delivering it to different corners of the world each morning. She has a detailed route map and is never late.",
+      "tags": ["morning", "owl", "sunrise", "warm", "birds", "golden", "whimsical", "dedicated", "sky"],
+      "type": "character",
+      "elements": ["owl", "satchel", "sunrise", "route map", "morning", "golden light"]
+    },
+    {
+      "id": 91,
+      "title": "The Skeleton Library",
+      "description": "A library where every book is written in bone — the pages are thin wafers of ivory, the words carved in miniature. The oldest books are read only with magnifying lenses.",
+      "tags": ["dark", "ancient", "mysterious", "library", "detail", "quiet", "surreal", "poetic", "vast"],
+      "type": "scene",
+      "elements": ["bone pages", "carved words", "magnifying lens", "library", "ivory", "ancient"]
+    },
+    {
+      "id": 92,
+      "title": "Lavender Farm on the Ceiling",
+      "description": "Lavender growing downward from a ceiling, roots in the plaster, flowers dangling like purple chandeliers. Bees navigate upside down. The room always smells of summer.",
+      "tags": ["surreal", "lavender", "purple", "nature", "soft", "summer", "upside-down", "cozy", "calm"],
+      "type": "scene",
+      "elements": ["lavender", "ceiling", "bees", "purple", "roots", "upside-down", "fragrance"]
+    },
+    {
+      "id": 93,
+      "title": "The Giant's Thimble",
+      "description": "A thimble the size of a house, half-buried in a meadow, used by an enormous seamstress who stitches the horizon together each dawn. Thread the color of sunrise trails behind the hills.",
+      "tags": ["surreal", "giant", "meadow", "dawn", "golden", "whimsical", "nature", "vast", "poetic"],
+      "type": "scene",
+      "elements": ["thimble", "meadow", "horizon", "thread", "seamstress", "giant", "dawn"]
+    },
+    {
+      "id": 94,
+      "title": "The Expedition into Childhood",
+      "description": "Scientists in expedition gear carefully entering a childhood bedroom — taking soil samples from the carpet, studying the fossils of lego pieces, photographing the faded wallpaper with reverence.",
+      "tags": ["nostalgic", "funny", "childhood", "warm", "melancholic", "surreal", "curious", "memory"],
+      "type": "scene",
+      "elements": ["expedition gear", "bedroom", "lego", "wallpaper", "scientists", "childhood relics"]
+    },
+    {
+      "id": 95,
+      "title": "Portrait of a Sunday Afternoon",
+      "description": "A painted portrait not of a person but of a feeling — the exact quality of light on a Sunday at 4pm, the particular weight of silence, the warm amber of a nearly finished week.",
+      "tags": ["quiet", "nostalgic", "warm", "golden", "peaceful", "melancholic", "soft", "introspective", "afternoon"],
+      "type": "illustration",
+      "elements": ["afternoon light", "Sunday", "amber", "silence", "window", "dust motes"]
+    },
+    {
+      "id": 96,
+      "title": "The Cartographer's Ghost",
+      "description": "The ghost of a long-dead cartographer still roaming their old workshop, unable to rest because the map of the afterlife is incomplete. They keep adding new territories every century.",
+      "tags": ["ghost", "mysterious", "vintage", "maps", "poetic", "surreal", "dark", "creative", "endless"],
+      "type": "character",
+      "elements": ["ghost", "workshop", "maps", "afterlife territory", "parchment", "quill"]
+    },
+    {
+      "id": 97,
+      "title": "Architecture of a Storm",
+      "description": "A cross-section diagram of a thunderstorm treated as architecture — labeled rooms (the Anger Chamber, the Grief Hall, the Quiet Eye), structural columns of lightning, stairwells of updraft.",
+      "tags": ["stormy", "architecture", "surreal", "dark", "detailed", "dramatic", "poetic", "science", "creative"],
+      "type": "illustration",
+      "elements": ["storm cross-section", "labels", "lightning columns", "rain", "diagram", "architecture"]
+    },
+    {
+      "id": 98,
+      "title": "The Keeper of Waiting Rooms",
+      "description": "An old woman who tends to all the waiting rooms in the world — she keeps the plants alive, replaces the out-of-date magazines, dims the light to something bearable, and hums softly.",
+      "tags": ["quiet", "poetic", "warm", "melancholic", "everyday", "kind", "nostalgic", "soft", "introspective"],
+      "type": "character",
+      "elements": ["waiting room", "plants", "magazines", "dim light", "old woman", "humming"]
+    },
+    {
+      "id": 99,
+      "title": "The Archive of Last Sounds",
+      "description": "A room full of jars containing the last sounds of extinct things — the last call of the passenger pigeon, the last creak of a demolished building, the last laugh of someone long gone.",
+      "tags": ["melancholic", "quiet", "nostalgic", "sound", "loss", "poetic", "mysterious", "dark", "archive"],
+      "type": "scene",
+      "elements": ["jars", "sound", "labels", "extinct", "archive", "silence", "loss"]
+    },
+    {
+      "id": 100,
+      "title": "Cartographer's Birthday Party",
+      "description": "A birthday party where, instead of balloons, the guests release handmade maps into the sky — each one charting a place they love. The sky fills with parchment and longitude lines.",
+      "tags": ["happy", "sky", "maps", "warm", "colorful", "creative", "whimsical", "celebration", "flight"],
+      "type": "scene",
+      "elements": ["maps", "sky", "birthday", "parchment", "longitude lines", "releasing", "guests"]
+    },
+    {
+      "id": 101,
+      "title": "The Inkwell Ocean",
+      "description": "A vast ocean made entirely of ink — black and deep, with waves that leave dark stains on the white sand shore. Creatures made of unwritten words drift beneath the surface.",
+      "tags": ["dark", "vast", "surreal", "ocean", "writing", "mysterious", "black", "creative", "dreamy"],
+      "type": "scene",
+      "elements": ["ink ocean", "dark waves", "white sand", "word creatures", "stains", "deep"]
+    },
+    {
+      "id": 102,
+      "title": "The Dew Collector's Morning",
+      "description": "Before dawn, a figure moves through a meadow with silk cloths, collecting dew — each drop a different flavour depending on which flower it rested on. Bottled as rare medicine.",
+      "tags": ["morning", "quiet", "nature", "gentle", "green", "soft", "dew", "peaceful", "botanical"],
+      "type": "character",
+      "elements": ["dew", "silk cloth", "meadow", "dawn", "bottles", "flowers", "mist"]
+    },
+    {
+      "id": 103,
+      "title": "Stars Asleep in a Drawer",
+      "description": "An old bureau drawer pulled open to reveal a cluster of small sleeping stars — curled up like cats, humming faintly, barely glowing. The drawer is lined with velvet the color of midnight.",
+      "tags": ["night", "stars", "cozy", "dreamy", "quiet", "whimsical", "soft", "velvet", "sleep"],
+      "type": "still life",
+      "elements": ["drawer", "sleeping stars", "velvet", "midnight blue", "glow", "bureau"]
+    },
+    {
+      "id": 104,
+      "title": "The Geographer of Interiors",
+      "description": "A scientist who maps the interior spaces of houses — the emotional weather of living rooms, the altitude of attics, the hidden caves behind wallpaper. Produces maps of feeling.",
+      "tags": ["surreal", "home", "emotional", "map", "curious", "interior", "poetic", "creative", "thoughtful"],
+      "type": "character",
+      "elements": ["house map", "living room", "attic", "wallpaper", "emotional weather", "compass"]
+    },
+    {
+      "id": 105,
+      "title": "Festival of Falling Leaves",
+      "description": "An annual autumn festival where the trees are the performers — each one dropping leaves in deliberate patterns, choreographed like dancers. The audience sits in the roots.",
+      "tags": ["autumn", "nature", "festival", "colorful", "warm", "dancing", "leaves", "performance", "golden"],
+      "type": "scene",
+      "elements": ["trees", "leaves", "falling", "choreography", "audience", "autumn colors"]
+    },
+    {
+      "id": 106,
+      "title": "The Grief Taxidermist",
+      "description": "Someone who preserves grief into beautiful objects — a hollow sphere of amber containing the shape of a goodbye, a glass bird full of the particular silence after loss.",
+      "tags": ["grief", "emotional", "dark", "poetic", "beautiful", "craft", "surreal", "loss", "quiet"],
+      "type": "character",
+      "elements": ["amber sphere", "glass bird", "grief", "silence", "goodbye", "craft"]
+    },
+    {
+      "id": 107,
+      "title": "The Underground Sky",
+      "description": "A vast underground cavern where the ceiling is covered in bioluminescent organisms that pulse like stars — entire underground civilisations navigate by this false sky.",
+      "tags": ["underground", "dark", "glow", "blue", "vast", "mysterious", "surreal", "civilization", "dreamy"],
+      "type": "scene",
+      "elements": ["cavern", "ceiling", "bioluminescence", "stars", "underground city", "light"]
+    },
+    {
+      "id": 108,
+      "title": "Painter of the In-Between",
+      "description": "An artist who paints only transitional moments — the exact second between sleeping and waking, the space between one breath and the next, the moment before a decision.",
+      "tags": ["quiet", "poetic", "introspective", "art", "time", "surreal", "ethereal", "in-between", "calm"],
+      "type": "character",
+      "elements": ["canvas", "transition", "breath", "moment", "sleeping", "artist", "soft light"]
+    },
+    {
+      "id": 109,
+      "title": "The Apiary of Stolen Hours",
+      "description": "A hive where bees collect not pollen but stolen hours — time stolen from busy people who don't notice a Tuesday morning vanish. The honey is sweet and makes you dream of slow days.",
+      "tags": ["bees", "time", "surreal", "golden", "dreamy", "poetic", "whimsical", "cozy", "magical"],
+      "type": "scene",
+      "elements": ["beehive", "bees", "stolen hours", "honey jars", "dream", "slow time"]
+    },
+    {
+      "id": 110,
+      "title": "The Shore Where the Sea Whispers Names",
+      "description": "A shore where, if you listen closely, the waves whisper names — names of people who have loved the sea, names of ships, names the ocean invented for things without words.",
+      "tags": ["ocean", "mysterious", "poetic", "quiet", "night", "waves", "melancholic", "names", "magical"],
+      "type": "scene",
+      "elements": ["shore", "waves", "whispers", "names", "night", "sea foam", "listening"]
+    },
+    {
+      "id": 111,
+      "title": "The Repair Shop for Broken Mornings",
+      "description": "A small shop that takes in broken mornings — mornings that started wrong, spilled coffee, missed alarms — and repairs them. Returns them as small glowing objects you can revisit.",
+      "tags": ["morning", "warm", "hopeful", "cozy", "surreal", "poetic", "repair", "magical", "emotional"],
+      "type": "scene",
+      "elements": ["shop", "broken mornings", "glowing objects", "repair bench", "tools", "warm light"]
+    },
+    {
+      "id": 112,
+      "title": "The Cloud Stitcher",
+      "description": "A figure high above the earth stitching clouds together with enormous needles and thread made of sunlight — reinforcing them so they can hold heavy rain without tearing apart.",
+      "tags": ["sky", "clouds", "craft", "sun", "rain", "surreal", "whimsical", "golden", "peaceful"],
+      "type": "character",
+      "elements": ["clouds", "needle", "sunlight thread", "figure", "sky", "stitching", "rain-heavy"]
+    },
+    {
+      "id": 113,
+      "title": "The Ant Cartographer",
+      "description": "A single ant mapping an entire garden from the ground level — mountains are pebbles, oceans are puddles, forests are grass blades. The map is drawn on a grain of rice.",
+      "tags": ["tiny", "nature", "map", "surreal", "curious", "ant", "garden", "whimsical", "detail"],
+      "type": "character",
+      "elements": ["ant", "pebbles", "puddles", "grass", "grain of rice", "map", "scale"]
+    },
+    {
+      "id": 114,
+      "title": "Abandoned Submarine Garden",
+      "description": "An old submarine resting on the ocean floor, its hatches open, coral growing through the periscope, a garden of anemones in the torpedo tubes, fish darting through the control room.",
+      "tags": ["ocean", "abandoned", "nature", "blue", "quiet", "mysterious", "growth", "decay", "deep"],
+      "type": "scene",
+      "elements": ["submarine", "coral", "ocean floor", "anemones", "fish", "rust", "reclaimed"]
+    },
+    {
+      "id": 115,
+      "title": "The Thunderstorm Barber",
+      "description": "A barber shop where the barber is a storm cloud — lightning scissors that cut precisely, rain that washes, wind that styles. Thunder rolls approvingly when a good cut is finished.",
+      "tags": ["stormy", "funny", "whimsical", "dark", "lightning", "rain", "surreal", "creative", "playful"],
+      "type": "character",
+      "elements": ["storm cloud", "lightning scissors", "rain", "wind", "barber chair", "thunder"]
+    },
+    {
+      "id": 116,
+      "title": "The Painter's Sunrise Ritual",
+      "description": "Every morning a painter wakes before dawn to watch the sunrise, mixing the exact colors she sees in real time, as if painting the sky would make it stay. The colors never fully match.",
+      "tags": ["morning", "art", "sunrise", "warm", "golden", "melancholic", "daily", "quiet", "ritual"],
+      "type": "character",
+      "elements": ["painter", "palette", "sunrise", "colors", "dawn", "canvas", "ritual"]
+    },
+    {
+      "id": 117,
+      "title": "River of Forgotten Songs",
+      "description": "A river that carries fragments of half-remembered songs — you can hear snatches of melody if you press your ear to the water. Children come to fish out tunes with their fingers.",
+      "tags": ["music", "water", "nostalgic", "melancholic", "dreamy", "river", "children", "sound", "poetic"],
+      "type": "scene",
+      "elements": ["river", "songs", "melody", "children", "listening", "water", "fragments"]
+    },
+    {
+      "id": 118,
+      "title": "The Garden of Careful Mistakes",
+      "description": "A garden where beautiful plants grow only from mistakes — the flower that blooms from a wrong turn, the tree that grew from a miscalculation. Each labeled with what went wrong.",
+      "tags": ["garden", "nature", "poetic", "hopeful", "growth", "emotional", "metaphor", "green", "acceptance"],
+      "type": "scene",
+      "elements": ["garden", "plants", "labels", "wrong turns", "blooms", "growth", "mistakes"]
+    },
+    {
+      "id": 119,
+      "title": "Snow That Falls Upward",
+      "description": "In a particular valley, snow falls upward — from the ground into the sky, gathering into clouds above. Children lie in the grass and watch it rise, catching flakes on their noses.",
+      "tags": ["snow", "surreal", "winter", "children", "wonder", "upward", "cold", "dreamy", "playful"],
+      "type": "scene",
+      "elements": ["snow", "upward", "valley", "children", "grass", "clouds", "flakes"]
+    },
+    {
+      "id": 120,
+      "title": "The Moth's Library",
+      "description": "A library built entirely for moths — the books are made of silk and the words are patterns of light. Moths read with their wings open, drinking in the illuminated pages.",
+      "tags": ["moths", "library", "night", "silk", "light", "gentle", "mysterious", "soft", "whimsical"],
+      "type": "scene",
+      "elements": ["moths", "silk books", "light patterns", "wings", "library", "illumination"]
+    },
+    {
+      "id": 121,
+      "title": "The Shadow's Holiday",
+      "description": "A shadow that has taken a holiday from its person — traveling alone, visiting bright sunny places, eating ice cream that melts in the heat. The person walks slightly flattened without it.",
+      "tags": ["funny", "surreal", "summer", "sun", "whimsical", "playful", "shadow", "travel", "quirky"],
+      "type": "character",
+      "elements": ["shadow", "sunny places", "ice cream", "alone", "travel", "holiday"]
+    },
+    {
+      "id": 122,
+      "title": "The Archaeologist of Today",
+      "description": "An archaeologist who excavates the present — carefully brushing away seconds to examine minutes, cataloguing the afternoon, publishing a report on This Tuesday specifically.",
+      "tags": ["time", "funny", "surreal", "curious", "science", "everyday", "poetic", "detail", "present"],
+      "type": "character",
+      "elements": ["archaeologist", "trowel", "present moment", "calendar", "brushes", "report"]
+    },
+    {
+      "id": 123,
+      "title": "The Bridge Between Seasons",
+      "description": "A wooden bridge that spans the exact moment between summer and autumn — one end sun-warm, the other in amber leaf-fall. Standing in the middle you can feel both at once.",
+      "tags": ["seasons", "change", "nature", "bridge", "warm", "autumn", "summer", "poetic", "transition"],
+      "type": "scene",
+      "elements": ["bridge", "summer", "autumn", "leaves", "warmth", "transition", "duality"]
+    },
+    {
+      "id": 124,
+      "title": "Fossil of a Wednesday",
+      "description": "A geological cross-section revealing a fossilized Wednesday — the layers show morning coffee, a lunch break, an afternoon slump, the commute home. Scientists call it unremarkable. It is perfect.",
+      "tags": ["time", "surreal", "quiet", "everyday", "funny", "poetic", "fossils", "science", "ordinary"],
+      "type": "illustration",
+      "elements": ["fossil", "geological layers", "everyday moments", "Wednesday", "cross-section", "labels"]
+    },
+    {
+      "id": 125,
+      "title": "The Seamstress of Seasons",
+      "description": "A seamstress who sews the seasons together — giant panels of green summer, gold autumn, white winter, pink spring — basting them with invisible thread to make one unbroken year.",
+      "tags": ["seasons", "craft", "colorful", "nature", "cyclical", "whimsical", "warm", "creative", "poetic"],
+      "type": "character",
+      "elements": ["seamstress", "season panels", "thread", "spring", "summer", "autumn", "winter"]
+    },
+    {
+      "id": 126,
+      "title": "House of Unfinished Sentences",
+      "description": "A house where all the walls are covered in unfinished sentences — painted on plaster, carved in wood, scrawled in chalk. The residents live inside everyone's trailing thoughts.",
+      "tags": ["surreal", "words", "mysterious", "poetic", "text", "interior", "strange", "quiet", "written"],
+      "type": "scene",
+      "elements": ["walls", "sentences", "chalk", "plaster", "trailing words", "house interior"]
+    },
+    {
+      "id": 127,
+      "title": "The Understudy for the Sun",
+      "description": "On days the sun calls in sick, its understudy arrives — a slightly smaller, pinkish star that tries its best but forgets to set until 10pm and makes the shadows fall the wrong way.",
+      "tags": ["sun", "funny", "warm", "sky", "surreal", "whimsical", "light", "pink", "playful"],
+      "type": "character",
+      "elements": ["understudy sun", "pink light", "wrong shadows", "sky", "late sunset", "performance"]
+    },
+    {
+      "id": 128,
+      "title": "The Watcher of Doorways",
+      "description": "An ancient spirit who lives in doorways, observing all the entrances and exits, keeping tally of who enters nervously and who leaves with relief. Old doors remember everything.",
+      "tags": ["mysterious", "ancient", "doorway", "quiet", "poetic", "spiritual", "threshold", "surreal", "watching"],
+      "type": "character",
+      "elements": ["doorway", "spirit", "tally", "old wood", "threshold", "observation"]
+    },
+    {
+      "id": 129,
+      "title": "The Painter of First Meetings",
+      "description": "An artist commissioned only to paint the exact moment two people first meet — the specific quality of awkward warmth, the unplanned turning toward each other, a background of ordinary life.",
+      "tags": ["warm", "emotional", "people", "art", "connection", "quiet", "everyday", "hopeful", "tender"],
+      "type": "character",
+      "elements": ["painter", "two figures", "first meeting", "background", "turning", "warmth"]
+    },
+    {
+      "id": 130,
+      "title": "The Architect of Clouds",
+      "description": "Someone who designs clouds from a studio high in the atmosphere — sketching new formations, deciding which ones get lightning, signing their best work in cirrus before letting them go.",
+      "tags": ["sky", "clouds", "creative", "whimsical", "surreal", "studio", "above", "design", "wind"],
+      "type": "character",
+      "elements": ["studio", "cloud blueprints", "lightning decisions", "cirrus signature", "atmosphere", "release"]
+    },
+    {
+      "id": 131,
+      "title": "The Amber Room of Ordinary Moments",
+      "description": "A room where every ordinary moment has been preserved in amber — a sneeze, an eye-rub, a moment of staring out a bus window — each specimen labeled with the exact time and date.",
+      "tags": ["nostalgic", "time", "amber", "ordinary", "poetic", "surreal", "quiet", "collection", "detail"],
+      "type": "scene",
+      "elements": ["amber", "specimens", "ordinary moments", "labels", "room", "bus window", "sneeze"]
+    },
+    {
+      "id": 132,
+      "title": "Moonrise Swimming Pool",
+      "description": "A rooftop swimming pool where, on certain nights, the reflection of the moon fills the entire pool with silver light. Swimmers float in what looks like pure moonlight.",
+      "tags": ["moon", "water", "night", "silver", "rooftop", "dreamy", "peaceful", "beautiful", "glow"],
+      "type": "scene",
+      "elements": ["rooftop pool", "moon reflection", "silver water", "swimmers", "night", "glow"]
+    },
+    {
+      "id": 133,
+      "title": "The Tailor of Clouds",
+      "description": "A tailor who cuts and sews clouds into garments for giants — a cirrus scarf, a cumulus overcoat, a thin stratus dress for summer. The giants wear them during mountain storms.",
+      "tags": ["clouds", "giant", "craft", "surreal", "whimsical", "sky", "mountain", "creative", "storm"],
+      "type": "character",
+      "elements": ["tailor", "cloud garments", "cirrus scarf", "cumulus coat", "giant", "mountain", "scissors"]
+    },
+    {
+      "id": 134,
+      "title": "The Paleontologist of Feelings",
+      "description": "A scientist who excavates ancient feelings from geological strata — carefully extracting a 2,000-year-old longing, a prehistoric joy still perfectly intact, a grief fossilized mid-exhale.",
+      "tags": ["emotional", "science", "ancient", "surreal", "poetic", "dark", "excavation", "feeling", "fossil"],
+      "type": "character",
+      "elements": ["excavation site", "fossil feelings", "tools", "brushes", "geological layers", "glass case"]
+    },
+    {
+      "id": 135,
+      "title": "Night Train to Nowhere in Particular",
+      "description": "A train that runs only at night with no fixed destination — passengers climb on sleepy, the landscape changes outside as they doze, and they arrive somewhere they needed to be.",
+      "tags": ["night", "train", "dreamy", "journey", "mysterious", "quiet", "sleep", "magical", "nostalgic"],
+      "type": "scene",
+      "elements": ["night train", "passengers", "sleeping", "changing landscape", "destination", "mystery"]
+    },
+    {
+      "id": 136,
+      "title": "The Botanist Who Grows Feelings",
+      "description": "A botanist growing emotional plants — a climbing vine of longing, a succulent holding a week's worth of contentment in each leaf, a drooping fern that is always slightly melancholy.",
+      "tags": ["botanical", "emotional", "green", "surreal", "nature", "poetic", "quiet", "creative", "feelings"],
+      "type": "character",
+      "elements": ["greenhouse", "emotional plants", "vines", "succulent", "fern", "botanist", "watering can"]
+    },
+    {
+      "id": 137,
+      "title": "The Shepherd of Shooting Stars",
+      "description": "A shepherd who tends to shooting stars like a flock — calling them back when they stray, patching their tails when they fray, releasing them on schedule over different continents.",
+      "tags": ["stars", "night", "whimsical", "sky", "space", "magical", "shepherd", "celestial", "creative"],
+      "type": "character",
+      "elements": ["shooting stars", "shepherd", "staff", "flock", "night sky", "tails", "continents"]
+    },
+    {
+      "id": 138,
+      "title": "The Island That Follows Ships",
+      "description": "An island that quietly follows ships it likes — keeping a respectful distance, appearing in the background of sunsets, gone by morning but visible again three days later.",
+      "tags": ["ocean", "mysterious", "whimsical", "surreal", "lonely", "following", "island", "ship", "dreamy"],
+      "type": "scene",
+      "elements": ["island", "ship", "ocean", "distance", "sunset", "disappearing", "following"]
+    },
+    {
+      "id": 139,
+      "title": "Portrait of a Person Who Has Never Slept",
+      "description": "A portrait of someone who hasn't slept in years — their eyes hold entire extra worlds in them, dark circles like satellite photos of storm systems, eyebrows perpetually raised in exhausted wonder.",
+      "tags": ["dark", "poetic", "exhaustion", "eyes", "surreal", "emotional", "introspective", "portrait", "wonder"],
+      "type": "illustration",
+      "elements": ["portrait", "dark eyes", "storm circles", "exhaustion", "detail", "wonder"]
+    },
+    {
+      "id": 140,
+      "title": "The Season No One Named",
+      "description": "A fifth season that lasts only a few days in some years — the air is warm and cold at once, the light is amber and violet simultaneously, and everyone acts slightly more honest than usual.",
+      "tags": ["seasons", "mysterious", "poetic", "amber", "violet", "surreal", "honest", "brief", "magical"],
+      "type": "scene",
+      "elements": ["fifth season", "amber light", "violet air", "honesty", "brief", "mysterious weather"]
+    },
+    {
+      "id": 141,
+      "title": "Tea Made from Rainbows",
+      "description": "A tea shop that serves teas brewed from different parts of rainbows — red is warming and bold, violet is calming and slightly sleepy, green has the taste of a good decision made early.",
+      "tags": ["colorful", "cozy", "rainbow", "tea", "whimsical", "magical", "warm", "playful", "curious"],
+      "type": "scene",
+      "elements": ["tea shop", "rainbow teas", "colors", "cups", "brewing", "warm light"]
+    },
+    {
+      "id": 142,
+      "title": "The Abandoned Carnival of Dreams",
+      "description": "A carnival that no longer operates during waking hours — rides only turn at 3am, the ferris wheel lit by fireflies, the music box plays a song no one recognizes but everyone knows.",
+      "tags": ["dreamy", "night", "carnival", "abandoned", "magical", "mysterious", "nostalgic", "fireflies", "dark"],
+      "type": "scene",
+      "elements": ["carnival", "ferris wheel", "fireflies", "3am", "music box", "rides", "abandoned"]
+    },
+    {
+      "id": 143,
+      "title": "The Coral Philosopher",
+      "description": "A coral reef colony that thinks collectively — each polyp a neuron in a vast slow mind, contemplating the ocean across geological time, arriving at conclusions over centuries.",
+      "tags": ["ocean", "nature", "vast", "slow", "mysterious", "science", "deep", "blue", "philosophical"],
+      "type": "scene",
+      "elements": ["coral reef", "polyps", "collective mind", "ocean", "slow thought", "depth"]
+    },
+    {
+      "id": 144,
+      "title": "The Lighthouse Keeper's Diary",
+      "description": "A lighthouse keeper who writes daily diaries of what the light sees — ships named by feeling, storms given personal history, fog described as a visitor with no business being here.",
+      "tags": ["lighthouse", "ocean", "lonely", "poetic", "quiet", "writing", "night", "sea", "dedicated"],
+      "type": "character",
+      "elements": ["lighthouse", "diary", "light beam", "ships", "storms", "fog", "writing"]
+    },
+    {
+      "id": 145,
+      "title": "The Observatory of Ordinary Stars",
+      "description": "An observatory dedicated only to unremarkable, average stars — dim ones, plain ones, stars no one has named. The astronomer argues they are the backbone of the universe.",
+      "tags": ["space", "stars", "quiet", "science", "poetic", "underdog", "night", "dedicated", "ordinary"],
+      "type": "scene",
+      "elements": ["observatory", "telescope", "dim stars", "astronomer", "night sky", "charts"]
+    },
+    {
+      "id": 146,
+      "title": "The Forest That Sings at Noon",
+      "description": "A forest where, precisely at noon, all the trees exhale simultaneously and produce a low harmonic chord that lasts exactly two minutes. Animals stop and listen. So do people.",
+      "tags": ["forest", "music", "nature", "noon", "sound", "magical", "peaceful", "green", "quiet"],
+      "type": "scene",
+      "elements": ["forest", "trees", "noon", "harmonic chord", "animals", "listening", "light"]
+    },
+    {
+      "id": 147,
+      "title": "Ceramic Moon Repairs",
+      "description": "A workshop where craftspeople repair damage to the moon each month — filling craters with pale ceramic glaze, buffing the surface to a shine, sending it back before the next full moon.",
+      "tags": ["moon", "craft", "surreal", "whimsical", "ceramic", "night", "repair", "gentle", "dedicated"],
+      "type": "scene",
+      "elements": ["workshop", "moon surface", "ceramic glaze", "craters", "craftspeople", "full moon"]
+    },
+    {
+      "id": 148,
+      "title": "The Migration of Umbrellas",
+      "description": "Every autumn, lost umbrellas migrate south in enormous flocks — filling the sky with their black canopies, moving in formation. No one knows where they go or why they return wet.",
+      "tags": ["funny", "autumn", "surreal", "sky", "migration", "whimsical", "city", "black", "playful"],
+      "type": "scene",
+      "elements": ["umbrellas", "flock", "migration", "sky", "formation", "autumn", "canopy"]
+    },
+    {
+      "id": 149,
+      "title": "The Colour of Silence",
+      "description": "A painting attempting to capture the exact colour of silence — a shade slightly off-white, with traces of pale blue, that shifts depending on the silence around it when viewed.",
+      "tags": ["quiet", "abstract", "poetic", "art", "colour", "introspective", "surreal", "white", "blue"],
+      "type": "illustration",
+      "elements": ["painting", "off-white", "pale blue", "silence", "shifting color", "canvas"]
+    },
+    {
+      "id": 150,
+      "title": "Architect of Morning",
+      "description": "Someone who builds mornings from scratch each day — assembling light from the east, warming the air in layers, placing birdsong in sequence, releasing the smell of damp earth on schedule.",
+      "tags": ["morning", "warm", "creative", "surreal", "golden", "hopeful", "nature", "craft", "dawn"],
+      "type": "character",
+      "elements": ["morning construction", "light placement", "birdsong", "damp earth", "layered warmth", "dawn"]
+    },
+    {
+      "id": 151,
+      "title": "The Velvet Astronomer",
+      "description": "An astronomer who insists on velvet for everything — velvet telescope covers, velvet sky charts, velvet gloves to handle star maps. Claims fabric softens the harshness of infinity.",
+      "tags": ["space", "funny", "velvet", "stars", "quirky", "warm", "science", "night", "soft"],
+      "type": "character",
+      "elements": ["velvet telescope", "star charts", "gloves", "infinity", "soft materials", "astronomer"]
+    },
+    {
+      "id": 152,
+      "title": "Frozen Moment at a Train Station",
+      "description": "Everything at a busy train station frozen in time — departing passengers mid-stride, pigeons mid-flap, steam mid-billow — except one small child still moving slowly through the stillness.",
+      "tags": ["time", "surreal", "quiet", "city", "train", "child", "frozen", "melancholic", "movement"],
+      "type": "scene",
+      "elements": ["train station", "frozen figures", "child", "pigeons", "steam", "stillness", "motion"]
+    },
+    {
+      "id": 153,
+      "title": "The City Built on Fog",
+      "description": "A coastal city whose foundations rest entirely on a bed of dense fog — the buildings don't sink because no one has tried to prove they should. It works on belief.",
+      "tags": ["fog", "city", "surreal", "mysterious", "coastal", "belief", "grey", "dreamy", "poetic"],
+      "type": "scene",
+      "elements": ["city", "fog foundation", "coastal", "buildings", "belief", "grey", "suspension"]
+    },
+    {
+      "id": 154,
+      "title": "The Librarian Who Remembers Every Book",
+      "description": "An ancient librarian who has read every book ever written — her mind is a perfect library. When books are lost to fire, she sits quietly and reproduces them from memory.",
+      "tags": ["library", "books", "memory", "ancient", "quiet", "poetic", "dedicated", "warm", "preservation"],
+      "type": "character",
+      "elements": ["librarian", "books", "memory", "fire loss", "writing", "shelves", "candlelight"]
+    },
+    {
+      "id": 155,
+      "title": "The Ballroom of Parallel Lives",
+      "description": "A ballroom where alternate versions of yourself dance — you as you would have been if you'd moved away, if you'd taken the other job, if you'd been braver about one particular thing.",
+      "tags": ["emotional", "surreal", "introspective", "ballroom", "parallel", "poetic", "identity", "dancing", "possibilities"],
+      "type": "scene",
+      "elements": ["ballroom", "alternate selves", "dancing", "mirrors", "different choices", "light"]
+    },
+    {
+      "id": 156,
+      "title": "The Cloud Shepherd's Winter",
+      "description": "A cloud shepherd in deep winter, when the clouds are heavy and grey and reluctant — coaxing them gently, keeping the flock together in blizzards, nursing sick ones back to white.",
+      "tags": ["winter", "clouds", "shepherd", "grey", "cold", "gentle", "snow", "quiet", "nature"],
+      "type": "character",
+      "elements": ["cloud shepherd", "winter clouds", "grey flock", "blizzard", "nursing", "cold sky"]
+    },
+    {
+      "id": 157,
+      "title": "Sunrise Fishing for Stars",
+      "description": "At dawn, a fisherman casts his line into the fading sky and reels in the last remaining stars before daylight swallows them. He keeps the smallest ones in a tank at home.",
+      "tags": ["dawn", "stars", "fishing", "sky", "warm", "whimsical", "cozy", "morning", "golden"],
+      "type": "character",
+      "elements": ["fisherman", "fishing line", "stars", "dawn sky", "tank", "morning light", "reel"]
+    },
+    {
+      "id": 158,
+      "title": "Portrait of a Season Changing Its Mind",
+      "description": "Autumn halfway through deciding to become winter — one half of the scene in golden leaves and amber warmth, the other half gone white and still, divided by a single bare tree.",
+      "tags": ["autumn", "winter", "change", "seasons", "poetic", "cold", "golden", "transition", "bare tree"],
+      "type": "illustration",
+      "elements": ["divided scene", "autumn leaves", "snow", "bare tree", "golden", "white", "transition"]
+    },
+    {
+      "id": 159,
+      "title": "The Bird That Collects Regrets",
+      "description": "A large silent bird that visits people in the night and takes one regret from their chest — leaving a small smooth stone in its place. The bird's feathers are made of accumulated whispers.",
+      "tags": ["dark", "emotional", "night", "birds", "healing", "poetic", "mysterious", "surreal", "regret"],
+      "type": "character",
+      "elements": ["silent bird", "regret", "smooth stone", "whisper feathers", "night", "chest"]
+    },
+    {
+      "id": 160,
+      "title": "The Sundial at the End of Autumn",
+      "description": "An ancient sundial in a forest clearing, still keeping perfect time though the trees are bare and the light comes slant and thin. Leaves collect in its hour markers like gifts.",
+      "tags": ["autumn", "time", "forest", "ancient", "quiet", "melancholic", "poetic", "light", "bare"],
+      "type": "scene",
+      "elements": ["sundial", "bare forest", "slant light", "leaves", "hour markers", "clearing"]
+    },
+    {
+      "id": 161,
+      "title": "The Museum of Unlived Days",
+      "description": "A museum displaying days you never had — days spent in places you never visited, in versions of yourself you never became. Each exhibit is a perfect Tuesday someone else lived.",
+      "tags": ["nostalgic", "museum", "melancholic", "surreal", "days", "poetic", "introspective", "emotional", "time"],
+      "type": "scene",
+      "elements": ["museum", "exhibit days", "unlived moments", "displays", "glass cases", "labeling"]
+    },
+    {
+      "id": 162,
+      "title": "The Sky Tailor",
+      "description": "A figure who tailors the sky to fit each day — letting it out on vast cloudless days, taking it in on grey close days, adding embellishments of cirrus for special occasions.",
+      "tags": ["sky", "craft", "surreal", "whimsical", "creative", "blue", "clouds", "daily", "gentle"],
+      "type": "character",
+      "elements": ["tailor", "sky fabric", "cirrus embellishment", "letting out", "grey days", "blue sky"]
+    },
+    {
+      "id": 163,
+      "title": "Whale Songs in the Mountains",
+      "description": "Mountain ranges that emit whale songs during strong winds — the peaks and valleys shaped exactly like cetacean vocal anatomy. Climbers hear deep calls from inside the rock.",
+      "tags": ["mountains", "whales", "surreal", "sound", "nature", "vast", "mysterious", "wind", "rock"],
+      "type": "scene",
+      "elements": ["mountains", "whale song", "wind", "anatomy", "rock", "climbers", "deep sound"]
+    },
+    {
+      "id": 164,
+      "title": "The Florist of Extinct Flowers",
+      "description": "A florist who grows flowers from seeds archived from extinct species — species of blossom not seen for centuries, colors that exist nowhere else, perfumes the world forgot it missed.",
+      "tags": ["botanical", "flowers", "nostalgic", "nature", "extinct", "color", "perfume", "quiet", "hopeful"],
+      "type": "character",
+      "elements": ["florist", "extinct flowers", "archived seeds", "lost colors", "perfume", "greenhouse"]
+    },
+    {
+      "id": 165,
+      "title": "The Person Who Collects Twilights",
+      "description": "Someone who photographs every twilight they've ever witnessed — not the sunset itself, but the exact ten minutes after, when the sky goes from rose to deepest blue. An archive of transitions.",
+      "tags": ["evening", "twilight", "photography", "blue", "rose", "quiet", "transition", "dedicated", "sky"],
+      "type": "character",
+      "elements": ["twilight", "photography", "rose sky", "deep blue", "archive", "ten minutes", "transition"]
+    },
+    {
+      "id": 166,
+      "title": "The Cave of All Echoes",
+      "description": "A cave system where every sound ever made inside still reverberates — you can hear a child's laughter from 200 years ago, a monk's prayer, a woman humming while lost.",
+      "tags": ["cave", "sound", "echo", "ancient", "mysterious", "poetic", "dark", "nostalgic", "historical"],
+      "type": "scene",
+      "elements": ["cave", "echoes", "ancient sounds", "laughter", "prayer", "dark", "reverb"]
+    },
+    {
+      "id": 167,
+      "title": "The Festival of Returning Things",
+      "description": "An annual festival where lost items return on their own — socks, single earrings, library books 30 years overdue, a word you couldn't remember, a feeling you thought was gone for good.",
+      "tags": ["funny", "warm", "surreal", "hopeful", "festival", "returning", "whimsical", "magical", "lost"],
+      "type": "scene",
+      "elements": ["festival", "returned objects", "socks", "library books", "lost words", "celebration"]
+    },
+    {
+      "id": 168,
+      "title": "The Garden at the End of the World",
+      "description": "A small, well-tended garden right at the edge where the world ends — the gardener plants bulbs for flowers that will bloom into the void, seeds the abyss with marigolds.",
+      "tags": ["garden", "edge", "poetic", "hopeful", "dark", "flowers", "void", "surreal", "marigolds"],
+      "type": "scene",
+      "elements": ["garden", "void edge", "gardener", "marigolds", "bulbs", "abyss", "tending"]
+    },
+    {
+      "id": 169,
+      "title": "Ice Sculptor of Rain",
+      "description": "An ice sculptor who freezes rain mid-fall and carves it into figures — each rainstorm providing new material, each sculpture temporary, melting into the next storm.",
+      "tags": ["rain", "ice", "craft", "surreal", "cold", "temporary", "creative", "water", "melting"],
+      "type": "character",
+      "elements": ["ice sculpture", "frozen rain", "carving", "temporary", "melting", "storm material"]
+    },
+    {
+      "id": 170,
+      "title": "The Ship Made of Fog",
+      "description": "A sailing ship made entirely of dense fog — rigging, hull and sails all grey mist. It can sail anywhere because it cannot be stopped by rocks it simply passes through.",
+      "tags": ["fog", "ocean", "ship", "mysterious", "grey", "surreal", "dreamy", "freedom", "sailing"],
+      "type": "scene",
+      "elements": ["fog ship", "mist rigging", "grey sails", "ocean", "passing through rocks", "sailing"]
+    },
+    {
+      "id": 171,
+      "title": "The Tender of Old Fires",
+      "description": "Someone whose job is to tend fires that have never been allowed to go out — ancient flame traditions spanning millennia. The oldest fire in their keeping is older than the language to name it.",
+      "tags": ["ancient", "fire", "warm", "dedicated", "poetic", "tradition", "quiet", "orange", "timeless"],
+      "type": "character",
+      "elements": ["fire", "ancient flame", "tradition", "millennia", "nameless age", "tending", "orange glow"]
+    },
+    {
+      "id": 172,
+      "title": "Portrait of the Smell of Rain",
+      "description": "A sensory illustration attempting to capture petrichor — the scene before rain, dry earth, the moment the first drop hits stone, the particular exhalation of a relieved landscape.",
+      "tags": ["rain", "sensory", "nature", "poetic", "earthy", "stormy", "grey", "petrichor", "calm"],
+      "type": "illustration",
+      "elements": ["dry earth", "first raindrop", "stone", "mist", "grey sky", "relief", "smell"]
+    },
+    {
+      "id": 173,
+      "title": "The Star That Got Lost",
+      "description": "A single star that wandered from its constellation and is now alone in a patch of sky, winking anxiously, sending light signals in all directions hoping to be recognized and welcomed back.",
+      "tags": ["stars", "lonely", "night", "poetic", "lost", "space", "blinking", "hopeful", "small"],
+      "type": "illustration",
+      "elements": ["lone star", "empty sky patch", "signals", "constellation", "winking", "loneliness"]
+    },
+    {
+      "id": 174,
+      "title": "The Kingdom Under the Stairs",
+      "description": "The tiny kingdom living under a staircase — ruled by a beetle in a thimble crown, with kingdoms of dust and lint, trade routes along the baseboard, and wars over crumbs.",
+      "tags": ["tiny", "funny", "whimsical", "kingdom", "beetle", "home", "cute", "playful", "miniature"],
+      "type": "scene",
+      "elements": ["staircase", "beetle king", "thimble crown", "dust", "crumbs", "tiny kingdom", "baseboard"]
+    },
+    {
+      "id": 175,
+      "title": "The Sleeping Forest",
+      "description": "An entire forest that hibernates each winter — not just animals but the trees themselves, their sap slowed to dreaming, roots pulling warmth inward, every leaf memory tucked away.",
+      "tags": ["winter", "forest", "sleep", "nature", "quiet", "cold", "dreamy", "peaceful", "vast"],
+      "type": "scene",
+      "elements": ["sleeping forest", "winter", "sap", "roots", "hibernating", "leaf memory", "stillness"]
+    },
+    {
+      "id": 176,
+      "title": "The Musician Who Plays Weather",
+      "description": "A musician whose instrument is the landscape itself — plucking cables for wind, drumming rooftops for rain, drawing a bow across a power line for the long note of a grey afternoon.",
+      "tags": ["music", "weather", "surreal", "creative", "rain", "wind", "grey", "city", "afternoon"],
+      "type": "character",
+      "elements": ["musician", "power lines", "rooftops", "wind cables", "rain drums", "grey afternoon"]
+    },
+    {
+      "id": 177,
+      "title": "Garden Growing in a Teacup",
+      "description": "An entire wild garden growing inside a porcelain teacup — tiny oak tree, meadow of thyme, a pond for a raindrop, bees smaller than punctuation marks tending to everything.",
+      "tags": ["tiny", "whimsical", "garden", "nature", "cozy", "miniature", "green", "bees", "magical"],
+      "type": "still life",
+      "elements": ["teacup", "tiny oak", "thyme meadow", "raindrop pond", "tiny bees", "miniature garden"]
+    },
+    {
+      "id": 178,
+      "title": "The Ghost of a Building That's Not Yet Built",
+      "description": "The ghost of a building that will be constructed in the future — already haunting the empty lot, its transparent floors and windows visible at night, footsteps heard before the foundation is laid.",
+      "tags": ["ghost", "surreal", "city", "future", "mysterious", "dark", "poetic", "transparent", "haunting"],
+      "type": "scene",
+      "elements": ["empty lot", "ghost building", "transparent floors", "footsteps", "night", "future presence"]
+    },
+    {
+      "id": 179,
+      "title": "Library in a Lighthouse",
+      "description": "A lighthouse whose light chamber has been turned into a library — books arranged in a spiral following the beam, reading in the slow sweep of light, the sea visible through every gap.",
+      "tags": ["lighthouse", "library", "ocean", "books", "light", "spiral", "quiet", "beautiful", "reading"],
+      "type": "scene",
+      "elements": ["lighthouse", "spiral books", "rotating light", "sea view", "reading", "spiral arrangement"]
+    },
+    {
+      "id": 180,
+      "title": "The Afternoon That Never Left",
+      "description": "One golden summer afternoon that got stuck — it never turned to evening. The same 4pm light falls perpetually, the shadows don't move, and the people who live there have forgotten it should change.",
+      "tags": ["surreal", "golden", "afternoon", "stuck", "summer", "nostalgic", "warm", "poetic", "still"],
+      "type": "scene",
+      "elements": ["golden light", "4pm", "unmoving shadows", "summer afternoon", "perpetual warmth", "still"]
+    },
+    {
+      "id": 181,
+      "title": "Rain That Falls Sideways on Purpose",
+      "description": "Rain that deliberately falls sideways, adjusting its trajectory to avoid hitting people it likes. Those who pay attention notice the rain parting gently around them.",
+      "tags": ["rain", "surreal", "gentle", "funny", "whimsical", "stormy", "poetic", "kind", "weather"],
+      "type": "illustration",
+      "elements": ["rain", "sideways trajectory", "parting rain", "people", "kindness", "storm"]
+    },
+    {
+      "id": 182,
+      "title": "The Owl Post Between Worlds",
+      "description": "A postal system run by owls that carries mail between this world and adjacent ones — the letters arrive damp, smelling faintly of somewhere almost-familiar. Replies take seven years.",
+      "tags": ["owls", "night", "mysterious", "mail", "surreal", "magical", "poetic", "parallel worlds", "birds"],
+      "type": "scene",
+      "elements": ["owls", "letters", "adjacent worlds", "damp mail", "familiar smell", "seven years"]
+    },
+    {
+      "id": 183,
+      "title": "Botanical Survey of a Dream",
+      "description": "A scientific field report on the vegetation encountered in a recurring dream — species list, sketches, notes on soil composition. The plants have no equivalent in waking botany.",
+      "tags": ["botanical", "dreamy", "science", "surreal", "curious", "detail", "green", "poetic", "night"],
+      "type": "illustration",
+      "elements": ["plant sketches", "field notes", "dream flora", "soil notes", "species list", "scientific detail"]
+    },
+    {
+      "id": 184,
+      "title": "The Storm That Fell in Love with a Garden",
+      "description": "A violent thunderstorm that arrived to destroy a garden but fell in love with it instead — now it circles overhead protectively, giving only gentle rain, frightening away hailstorms.",
+      "tags": ["storm", "garden", "love", "surreal", "poetic", "rain", "protective", "nature", "emotional"],
+      "type": "scene",
+      "elements": ["thunderstorm", "garden", "gentle rain", "protective circle", "lightning guard", "love"]
+    },
+    {
+      "id": 185,
+      "title": "The Ice Hotel of Extinct Languages",
+      "description": "An ice hotel where every room is carved in a different extinct language — walls, ceilings and floors inscribed with words no one has spoken in centuries. The cold preserves them perfectly.",
+      "tags": ["cold", "language", "ice", "ancient", "mysterious", "dark", "preservation", "extinct", "beautiful"],
+      "type": "scene",
+      "elements": ["ice hotel", "extinct language", "carved words", "cold", "preservation", "rooms", "centuries"]
+    },
+    {
+      "id": 186,
+      "title": "The Maker of Tiny Worlds",
+      "description": "A craftsperson who builds entire worlds in glass bottles — each one fully functioning, with tiny weather patterns, miniature civilizations, their own small histories playing out.",
+      "tags": ["tiny", "craft", "glass", "world", "miniature", "creative", "wonder", "detailed", "magical"],
+      "type": "character",
+      "elements": ["glass bottle", "tiny world", "miniature civilization", "small weather", "history", "craft"]
+    },
+    {
+      "id": 187,
+      "title": "The Person Who Is Always Arriving",
+      "description": "A figure perpetually mid-arrival — always just stepping off a train, just pushing open a door, always bringing the outside in on their coat. Never quite settled. Always just here.",
+      "tags": ["journey", "transition", "poetic", "melancholic", "arriving", "train", "door", "restless", "surreal"],
+      "type": "character",
+      "elements": ["doorway", "coat", "arriving", "train", "outside air", "perpetual arrival", "threshold"]
+    },
+    {
+      "id": 188,
+      "title": "The Mountain That Hums",
+      "description": "A dormant mountain that produces a low harmonic hum from its volcanic chambers — the local people use it to tune their instruments, orientate themselves in fog, and fall asleep.",
+      "tags": ["mountain", "sound", "nature", "ancient", "hum", "volcanic", "musical", "vast", "peaceful"],
+      "type": "scene",
+      "elements": ["mountain", "hum", "volcanic chambers", "instruments", "fog orientation", "sleep"]
+    },
+    {
+      "id": 189,
+      "title": "The Painter Who Paints Closed Eyes",
+      "description": "An artist who paints only what people see behind closed eyelids — the private colours, patterns and half-formed images. The gallery is experienced only with eyes shut.",
+      "tags": ["art", "quiet", "introspective", "dark", "dreamy", "private", "colour", "poetic", "surreal"],
+      "type": "character",
+      "elements": ["painter", "closed eyes", "private colours", "patterns", "gallery", "inner vision"]
+    },
+    {
+      "id": 190,
+      "title": "The River at the End of Memory",
+      "description": "A river that flows at the edge of memory — things you can almost remember drift on its surface, half-visible. If you don't reach for them in time, the current takes them away.",
+      "tags": ["memory", "water", "melancholic", "poetic", "nostalgic", "surreal", "reaching", "current", "longing"],
+      "type": "scene",
+      "elements": ["river", "half-memories", "drifting", "reaching", "current", "edge", "fading"]
+    },
+    {
+      "id": 191,
+      "title": "The Garden in the Storm's Eye",
+      "description": "A perfectly calm garden growing inside the eye of a hurricane — topiary, a birdbath still as glass, bees unhurried. The walls of the storm visible all around, but here: stillness.",
+      "tags": ["storm", "garden", "calm", "contrast", "surreal", "peaceful", "nature", "powerful", "eye"],
+      "type": "scene",
+      "elements": ["hurricane eye", "calm garden", "topiary", "birdbath", "bees", "storm walls", "stillness"]
+    },
+    {
+      "id": 192,
+      "title": "Cartography of a Friendship",
+      "description": "A hand-drawn map of a long friendship — mountains of misunderstanding, rivers of laughter, deserts of not speaking for months, the capital city of a single ordinary evening.",
+      "tags": ["friendship", "emotional", "map", "nostalgic", "warm", "poetic", "journey", "introspective", "relationship"],
+      "type": "map",
+      "elements": ["map", "mountains", "rivers", "deserts", "capital", "friendship landscape", "hand-drawn"]
+    },
+    {
+      "id": 193,
+      "title": "The Candle that Burns Backwards",
+      "description": "A candle that, instead of melting down, grows taller as it burns — and the flame at the top is cold. As days pass the candle extends toward the ceiling, cool and white.",
+      "tags": ["surreal", "candle", "reverse", "cold", "mysterious", "white", "growing", "poetic", "quiet"],
+      "type": "still life",
+      "elements": ["candle", "cold flame", "growing upward", "white wax", "ceiling", "reverse"]
+    },
+    {
+      "id": 194,
+      "title": "The Expedition to the Centre of a Raindrop",
+      "description": "A miniature expedition inside a single raindrop — scientists in diving gear exploring the curved interior, charting the tiny world refracted there, discovering it holds a whole landscape upside down.",
+      "tags": ["tiny", "science", "surreal", "rain", "curious", "miniature", "wonder", "water", "exploration"],
+      "type": "illustration",
+      "elements": ["raindrop interior", "diving gear", "refraction", "upside-down landscape", "expedition", "tiny scientists"]
+    },
+    {
+      "id": 195,
+      "title": "The Winged Library",
+      "description": "A library that migrates annually like a bird — lifting off on enormous soft wings, following warmth, settling in a new location each year. Borrowers find it by following birdsong.",
+      "tags": ["library", "birds", "migration", "surreal", "books", "adventure", "whimsical", "wings", "magic"],
+      "type": "scene",
+      "elements": ["flying library", "wings", "migration", "books", "landing", "birdsong", "warmth"]
+    },
+    {
+      "id": 196,
+      "title": "The Last Train Into Autumn",
+      "description": "A train that runs only once a year, on the first day of autumn — carrying the summer away. Passengers feel warm all through autumn because they were on that train once.",
+      "tags": ["autumn", "train", "seasonal", "warm", "nostalgic", "dreamy", "melancholic", "journey", "poetic"],
+      "type": "scene",
+      "elements": ["autumn train", "summer cargo", "passengers", "warmth memory", "once-yearly", "first autumn day"]
+    },
+    {
+      "id": 197,
+      "title": "The Snow That Speaks",
+      "description": "Snow that falls in patterns that, if read correctly, form sentences — meteorologists trained in this language translate them. Yesterday's blizzard was a long complaint about how warm it's been.",
+      "tags": ["snow", "winter", "language", "funny", "surreal", "weather", "cold", "poetic", "communication"],
+      "type": "scene",
+      "elements": ["snow patterns", "sentences", "meteorologist", "blizzard complaint", "translation", "winter language"]
+    },
+    {
+      "id": 198,
+      "title": "The Botanist's Ghost",
+      "description": "The ghost of a Victorian botanist still wandering their overgrown greenhouse — still making notes in a spectral journal, pressing ghost flowers, cataloguing plants that have long since died.",
+      "tags": ["ghost", "botanical", "Victorian", "dark", "quiet", "poetic", "overgrown", "nature", "dedicated"],
+      "type": "character",
+      "elements": ["ghost", "greenhouse", "spectral journal", "ghost flowers", "Victorian era", "overgrown"]
+    },
+    {
+      "id": 199,
+      "title": "The Tide That Speaks at Low Water",
+      "description": "A tidal beach where, at lowest tide, rocks inscribed with messages from the deep are exposed — geological braille, old notation, a tide chart written by the ocean for itself.",
+      "tags": ["ocean", "tide", "mysterious", "inscription", "quiet", "ancient", "poetic", "beach", "discovery"],
+      "type": "scene",
+      "elements": ["low tide", "inscribed rocks", "geological braille", "ocean message", "beach", "discovery"]
+    },
+    {
+      "id": 200,
+      "title": "The Fog That Writes Letters",
+      "description": "A particular fog that settles each autumn morning and leaves letters on windows — condensation shaped into words. The letters are in no language anyone recognizes, but they feel important.",
+      "tags": ["fog", "autumn", "mysterious", "morning", "letters", "window", "surreal", "unknown language", "poetic"],
+      "type": "scene",
+      "elements": ["fog", "window condensation", "letters", "unknown language", "autumn morning", "feeling important"]
+    },
+    {
+      "id": 201,
+      "title": "The Crow Who Writes Elegies",
+      "description": "A crow perched on a fence post, writing small elegies for things that have disappeared — the dead telephone boxes, the extinct flavors of old candy, the particular shade of a childhood bedroom.",
+      "tags": ["birds", "crow", "nostalgic", "dark", "poetic", "writing", "loss", "melancholic", "extinct"],
+      "type": "character",
+      "elements": ["crow", "fence post", "elegies", "telephone boxes", "childhood bedroom", "lost things"]
+    },
+    {
+      "id": 202,
+      "title": "The Deep Sea Cafe",
+      "description": "A cafe at the bottom of the Mariana Trench — pressure-resistant walls of deep blue glass, anglerfish serving as lamps, a menu written in bioluminescence. The coffee is somehow perfect.",
+      "tags": ["deep", "ocean", "dark", "blue", "cozy", "surreal", "glow", "underwater", "whimsical"],
+      "type": "scene",
+      "elements": ["deep sea cafe", "blue glass", "anglerfish lamps", "bioluminescent menu", "pressure", "coffee"]
+    },
+    {
+      "id": 203,
+      "title": "The Architect Who Builds in Fog",
+      "description": "An architect who has developed a technique for building permanent structures from fog — fog bridges, fog towers, fog cathedrals. They stand. Scientists refuse to explain why.",
+      "tags": ["fog", "architecture", "surreal", "mysterious", "grey", "science", "permanent", "poetic", "unexplained"],
+      "type": "character",
+      "elements": ["fog architecture", "fog bridge", "fog cathedral", "standing structure", "mystery", "grey"]
+    },
+    {
+      "id": 204,
+      "title": "The Person Who Collects Silences",
+      "description": "A collector with hundreds of jars labeled: 'Library silence, 3pm Tuesday,' 'The silence after news,' 'Forest silence — no wind.' The most precious jar holds 'The silence before music begins.'",
+      "tags": ["quiet", "collection", "surreal", "poetic", "jars", "introspective", "sound", "music", "nostalgic"],
+      "type": "still life",
+      "elements": ["jars", "labeled silences", "library", "forest", "before music", "collection", "stillness"]
+    },
+    {
+      "id": 205,
+      "title": "The Island That Breathes",
+      "description": "An island whose coastline expands and contracts rhythmically — the beach grows at dawn, shrinks at dusk, as if the island is breathing. The rocks are its ribs.",
+      "tags": ["island", "ocean", "surreal", "breathing", "alive", "rhythm", "nature", "mysterious", "vast"],
+      "type": "scene",
+      "elements": ["island", "breathing coastline", "expanding beach", "contracting", "ribs-rocks", "dawn dusk"]
+    },
+    {
+      "id": 206,
+      "title": "Field Study of a Rainy Day",
+      "description": "A scientific field notebook documenting a single rainy day — hourly observations of the rain's mood, specimen collection of notable puddles, a taxonomy of umbrellas seen.",
+      "tags": ["rain", "science", "funny", "quiet", "detail", "surreal", "curious", "notebook", "taxonomy"],
+      "type": "illustration",
+      "elements": ["field notebook", "rain observations", "puddle specimens", "umbrella taxonomy", "hourly logs", "rainy day"]
+    },
+    {
+      "id": 207,
+      "title": "The Braid of Rivers",
+      "description": "Three rivers that braid together in a braided delta — when viewed from above, they plait and unplait continuously like hair, some channels joining for miles before separating again.",
+      "tags": ["water", "nature", "aerial", "blue", "braided", "river", "pattern", "landscape", "peaceful"],
+      "type": "illustration",
+      "elements": ["braided rivers", "delta", "aerial view", "plaiting", "channels", "landscape", "blue"]
+    },
+    {
+      "id": 208,
+      "title": "The Moth and the Streetlamp",
+      "description": "A moth in love with a particular streetlamp — it knows the lamp's schedule, waits patiently through daylight, vibrates with joy at dusk. The lamp, for its part, shines a little warmer.",
+      "tags": ["moth", "love", "night", "city", "gentle", "poetic", "warm", "light", "dedication"],
+      "type": "character",
+      "elements": ["moth", "streetlamp", "love", "dusk", "waiting", "warm light", "devotion"]
+    },
+    {
+      "id": 209,
+      "title": "The Polar Bear's Library",
+      "description": "A library buried in arctic ice, maintained by a single polar bear who reads by bioluminescence, shelves books by weight, and has written extensive marginalia on every page in fish oil ink.",
+      "tags": ["arctic", "library", "polar bear", "funny", "cold", "dark", "books", "whimsical", "dedicated"],
+      "type": "scene",
+      "elements": ["arctic library", "polar bear", "ice shelves", "bioluminescence", "fish oil ink", "marginalia"]
+    },
+    {
+      "id": 210,
+      "title": "Portrait of an Argument That Became Music",
+      "description": "A painting of the moment an argument between two people becomes something else — their voices rising and falling into involuntary harmony, the room going still, both of them surprised.",
+      "tags": ["music", "emotional", "conflict", "harmony", "surreal", "poetic", "warm", "relationship", "surprise"],
+      "type": "illustration",
+      "elements": ["two figures", "rising voices", "harmony", "surprised expressions", "still room", "involuntary music"]
+    },
+    {
+      "id": 211,
+      "title": "The Philosopher's Garden",
+      "description": "An overgrown garden where a philosopher has labeled everything with its philosophical implication — 'This rose: impermanence,' 'This pebble: the problem of weight,' 'This shadow: doubt.'",
+      "tags": ["garden", "philosophy", "funny", "nature", "labels", "surreal", "curious", "roses", "shadow"],
+      "type": "scene",
+      "elements": ["garden", "labels", "rose", "pebble", "shadow", "philosopher", "overgrown"]
+    },
+    {
+      "id": 212,
+      "title": "The Wax Museum of Emotions",
+      "description": "A wax museum where the exhibits are perfectly recreated human emotions — Contentment at 4pm on a Sunday, Surprising Grief while Doing Dishes, Unexpected Joy at an Airport.",
+      "tags": ["emotional", "museum", "surreal", "quiet", "poetic", "human", "wax", "funny", "introspective"],
+      "type": "scene",
+      "elements": ["wax figures", "emotion labels", "4pm Sunday", "airport joy", "museum", "human feeling"]
+    },
+    {
+      "id": 213,
+      "title": "The Child Who Understood Weather",
+      "description": "A child who can speak to weather systems — negotiating with approaching storms, soothing anxious low-pressure systems, convincing fog to lift before school. Weather mostly cooperates.",
+      "tags": ["weather", "childhood", "magical", "stormy", "fog", "whimsical", "hopeful", "negotiating", "warm"],
+      "type": "character",
+      "elements": ["child", "storm negotiation", "fog lifting", "weather communication", "school morning", "calm"]
+    },
+    {
+      "id": 214,
+      "title": "The Ghost of an Unfinished Symphony",
+      "description": "A symphony that was never completed haunting a concert hall — the orchestra hears the missing movements during silence, the ghost notes filling in what was never written.",
+      "tags": ["music", "ghost", "dark", "concert hall", "poetic", "silence", "unfinished", "haunting", "orchestra"],
+      "type": "scene",
+      "elements": ["concert hall", "ghost symphony", "silence", "missing movements", "orchestra", "ghost notes"]
+    },
+    {
+      "id": 215,
+      "title": "The Shore at the Edge of Sleep",
+      "description": "A coastline that exists only in the seconds between waking and sleep — a warm beach with familiar-strange dunes, water that is also sky, a lighthouse that blinks in morse for your name.",
+      "tags": ["dreamy", "sleep", "ocean", "shore", "warm", "familiar", "poetic", "surreal", "transition"],
+      "type": "scene",
+      "elements": ["dream shore", "sleep edge", "dunes", "sky-water", "lighthouse", "morse name", "transition"]
+    },
+    {
+      "id": 216,
+      "title": "The Two Moons",
+      "description": "A sky with two moons — one the real moon, the other its reflection caught in a high altitude cloud and refused to come down. The reflected moon is slightly warmer in color.",
+      "tags": ["moon", "sky", "surreal", "night", "dreamy", "reflection", "warm", "blue", "mysterious"],
+      "type": "scene",
+      "elements": ["two moons", "real moon", "reflected moon", "cloud", "warm color", "night sky", "altitude"]
+    },
+    {
+      "id": 217,
+      "title": "The Fisherman of Lost Thoughts",
+      "description": "An old man fishing in a mental river — his line goes into memory itself, and he reels up half-thoughts, forgotten names, the fragment of a melody. He keeps the useful ones in a bucket.",
+      "tags": ["memory", "fishing", "surreal", "nostalgic", "poetic", "quiet", "river", "thought", "old man"],
+      "type": "character",
+      "elements": ["old man", "memory river", "fishing line", "half-thoughts", "bucket", "melody fragment"]
+    },
+    {
+      "id": 218,
+      "title": "The Cartographer of Scent",
+      "description": "A scientist who maps invisible territories of smell — the territory of bread from the bakery, the cinnamon kingdom, the borderlands where rain meets dry stone. Maps sold to the nostalgia-prone.",
+      "tags": ["scent", "map", "surreal", "curious", "bakery", "rain", "cinnamon", "nostalgic", "invisible"],
+      "type": "character",
+      "elements": ["scent map", "bread territory", "rain-stone border", "cinnamon kingdom", "invisible maps", "nostalgia"]
+    },
+    {
+      "id": 219,
+      "title": "Knitting Club at the End of the Universe",
+      "description": "A small knitting club meeting at the very edge of the universe — five women quietly knitting, the void immediately outside the window, tea growing cold, someone's pattern going wrong.",
+      "tags": ["space", "cozy", "funny", "void", "surreal", "women", "quiet", "tea", "knitting"],
+      "type": "scene",
+      "elements": ["knitting club", "void window", "five women", "cold tea", "wrong pattern", "universe edge"]
+    },
+    {
+      "id": 220,
+      "title": "The Map of Every Goodbye",
+      "description": "A city map with every place a goodbye was said marked — a red dot outside this station, a small circle at this door, a long line where someone walked away slowly. Dense in certain streets.",
+      "tags": ["city", "goodbye", "emotional", "map", "melancholic", "poetic", "red dots", "loss", "relationships"],
+      "type": "map",
+      "elements": ["city map", "red dots", "station", "doorways", "walking away", "goodbye locations"]
+    },
+    {
+      "id": 221,
+      "title": "The Library at the Centre of the Storm",
+      "description": "A library in perfect stillness at the eye of a hurricane — bookshelves undisturbed, pages unruffled, a librarian shelving books calmly while the storm rotates around them.",
+      "tags": ["library", "storm", "eye", "calm", "surreal", "books", "quiet", "contrast", "peaceful"],
+      "type": "scene",
+      "elements": ["library", "hurricane eye", "calm librarian", "unruffled pages", "storm exterior", "contrast"]
+    },
+    {
+      "id": 222,
+      "title": "Migration of Ideas",
+      "description": "Ideas visualized as physical creatures migrating across the sky — half-formed thoughts trailing behind fully realized ones, discarded drafts forming a slow tail, the great flock of breakthrough concepts.",
+      "tags": ["abstract", "creative", "sky", "surreal", "birds", "migration", "thought", "colorful", "dreamy"],
+      "type": "illustration",
+      "elements": ["idea creatures", "half-formed thoughts", "discarded drafts", "breakthrough flock", "sky", "migration"]
+    },
+    {
+      "id": 223,
+      "title": "The Shore of Almost",
+      "description": "A shoreline made of the things that almost happened — the conversation you almost started, the door you almost opened, the word you almost said. They wash up here, small and smooth.",
+      "tags": ["emotional", "melancholic", "ocean", "shore", "almost", "poetic", "surreal", "longing", "quiet"],
+      "type": "scene",
+      "elements": ["shore", "almost-things", "smooth stones", "waves", "conversation", "door", "word"]
+    },
+    {
+      "id": 224,
+      "title": "The Polar Expedition Café",
+      "description": "An expedition-style café in an arctic setting — tent canvas walls, equipment as furniture, the warmest coffee imaginable, the sound of wind outside, a map covered in frostbitten fingerprints.",
+      "tags": ["cold", "cozy", "adventure", "arctic", "coffee", "warm", "expedition", "whimsical", "contrast"],
+      "type": "scene",
+      "elements": ["tent café", "arctic", "warm coffee", "equipment furniture", "wind sound", "frost map"]
+    },
+    {
+      "id": 225,
+      "title": "Portrait of Someone Looking at the Stars",
+      "description": "A back-view portrait of a figure lying in grass looking up at the sky — the stars visible both in the sky above and in their eyes below, as if the sky goes all the way through them.",
+      "tags": ["stars", "night", "nature", "poetic", "peaceful", "wonder", "blue", "quiet", "dreamy"],
+      "type": "illustration",
+      "elements": ["figure lying down", "grass", "stars reflected in eyes", "night sky", "through-view", "wonder"]
+    },
+    {
+      "id": 226,
+      "title": "The Glassblower of Clouds",
+      "description": "A glassblower who produces clouds by blowing into a long glass tube aimed at the sky — the breath forms cumulus, stratus, cumulonimbus depending on technique. Weather reports credit them.",
+      "tags": ["clouds", "craft", "surreal", "whimsical", "sky", "glass", "creative", "weather", "breath"],
+      "type": "character",
+      "elements": ["glassblower", "glass tube", "cumulus", "stratus", "sky", "breath clouds", "weather report"]
+    },
+    {
+      "id": 227,
+      "title": "The Museum of Ordinary Tuesdays",
+      "description": "A museum dedicated entirely to the ordinary Tuesday — each gallery a different unremarkable Tuesday from history, perfectly recreated. The most visited exhibit: a Tuesday with nothing happening at all.",
+      "tags": ["ordinary", "funny", "surreal", "museum", "quiet", "poetic", "Tuesday", "everyday", "history"],
+      "type": "scene",
+      "elements": ["museum", "Tuesday galleries", "ordinary moments", "historical recreation", "nothing happening", "visitors"]
+    },
+    {
+      "id": 228,
+      "title": "The Last Firefly",
+      "description": "The last firefly in a meadow, blinking alone at dusk — but it blinks on and off with such conviction, such steadiness, that the darkness around it becomes its own kind of answer.",
+      "tags": ["firefly", "dusk", "lonely", "hopeful", "poetic", "nature", "soft", "blink", "darkness"],
+      "type": "illustration",
+      "elements": ["firefly", "meadow", "dusk", "blinking", "darkness", "single light", "conviction"]
+    },
+    {
+      "id": 229,
+      "title": "The Garden Party for Old Trees",
+      "description": "A formal garden party held by very old trees — the invitations are carved into bark and delivered by beetles, the refreshments are rainfall and sunlight, and the conversation spans centuries.",
+      "tags": ["trees", "nature", "ancient", "funny", "whimsical", "formal", "party", "forest", "slow"],
+      "type": "scene",
+      "elements": ["old trees", "bark invitations", "beetle delivery", "rain sunlight refreshments", "centuries of conversation"]
+    },
+    {
+      "id": 230,
+      "title": "The Clocktower That Keeps Dream Time",
+      "description": "A clocktower that runs on dream time — it moves fast through boring stretches, slows for moments of wonder, stops entirely during the best dreams. No one sets their watch by it but everyone checks it.",
+      "tags": ["dreams", "time", "clock", "whimsical", "surreal", "night", "wonder", "poetic", "city"],
+      "type": "scene",
+      "elements": ["clocktower", "dream time", "fast boring", "slow wonder", "stopped best dream", "checking clock"]
+    },
+    {
+      "id": 231,
+      "title": "The Philosopher's Rock",
+      "description": "A boulder that has spent 10,000 years thinking. It has arrived at several conclusions. They are written in the frost on its surface each winter morning and melt by noon.",
+      "tags": ["nature", "funny", "ancient", "poetic", "surreal", "frost", "winter", "philosophy", "quiet"],
+      "type": "character",
+      "elements": ["boulder", "frost writing", "winter morning", "conclusions", "melting by noon", "long thought"]
+    },
+    {
+      "id": 232,
+      "title": "The Archive of Abandoned Nests",
+      "description": "A naturalist's archive of abandoned bird nests — each documented, photographed, the materials listed. The archive reads like a record of small abandonings, each one a different story.",
+      "tags": ["birds", "nature", "quiet", "nostalgic", "archive", "nest", "abandoned", "detail", "melancholic"],
+      "type": "scene",
+      "elements": ["bird nests", "archive", "documentation", "natural materials", "abandoning", "photographs"]
+    },
+    {
+      "id": 233,
+      "title": "The Horizon That Moves",
+      "description": "A landscape painting whose horizon moves — not dramatically, just slightly, between viewings. It has been moving for 400 years. It is almost at the top of the canvas now.",
+      "tags": ["surreal", "painting", "horizon", "time", "slow", "mysterious", "poetic", "art", "moving"],
+      "type": "illustration",
+      "elements": ["horizon", "moving painting", "400 years", "canvas top", "slow movement", "landscape"]
+    },
+    {
+      "id": 234,
+      "title": "The Weathervane That Tells Feelings",
+      "description": "An old weathervane that stopped pointing to wind direction and now points toward where the nearest person is feeling most intensely. In cities it spins without stopping.",
+      "tags": ["emotional", "city", "surreal", "poetic", "weather", "feeling", "spinning", "people", "whimsical"],
+      "type": "still life",
+      "elements": ["weathervane", "spinning", "city", "emotional direction", "intensity", "old metal"]
+    },
+    {
+      "id": 235,
+      "title": "The Baker of Stars",
+      "description": "A baker who bakes stars in a wood-fired oven — kneading the luminous dough before dawn, shaping each one carefully, tapping when they sound hollow, sliding the finished stars into the sky.",
+      "tags": ["stars", "baker", "morning", "warm", "golden", "whimsical", "cozy", "craft", "night"],
+      "type": "character",
+      "elements": ["baker", "star dough", "wood oven", "tapping hollow", "shaping stars", "night sky delivery"]
+    },
+    {
+      "id": 236,
+      "title": "The Quiet Hours Preserved in Glass",
+      "description": "A collection of glass spheres, each containing a preserved quiet hour — a 2am Tuesday, a snowy Sunday morning, a rainy April Thursday at 6pm. They glow faintly in the dark.",
+      "tags": ["quiet", "glass", "time", "nostalgic", "cozy", "poetic", "collection", "glowing", "peaceful"],
+      "type": "still life",
+      "elements": ["glass spheres", "quiet hours", "2am", "Sunday morning", "glowing faintly", "collection"]
+    },
+    {
+      "id": 237,
+      "title": "The Whale Who Swallowed a Library",
+      "description": "A blue whale who once accidentally swallowed a sunken library — the books slowly dissolve over decades and the whale sings stories now, not songs. People follow its migration to listen.",
+      "tags": ["whale", "ocean", "books", "story", "magical", "vast", "deep", "dreamy", "poetic"],
+      "type": "character",
+      "elements": ["blue whale", "sunken library", "dissolving books", "story-songs", "migration", "listeners"]
+    },
+    {
+      "id": 238,
+      "title": "The Garden of Good Mornings",
+      "description": "A garden where every plant represents a different kind of good morning — coffee-and-sun mornings, slow foggy mornings with toast, unexpected joy before breakfast mornings. Each labeled with care.",
+      "tags": ["morning", "garden", "cozy", "warm", "hopeful", "gentle", "coffee", "fog", "nature"],
+      "type": "scene",
+      "elements": ["garden", "morning plants", "coffee warmth", "fog and toast", "unexpected joy", "labels"]
+    },
+    {
+      "id": 239,
+      "title": "The Roof of the World's Last Cloud",
+      "description": "A future world where only one cloud remains — preserved in a climate facility, curators who remember clouds, schoolchildren visiting on trips to see the last remaining cumulus.",
+      "tags": ["future", "cloud", "melancholic", "preservation", "sky", "children", "blue", "loss", "poetic"],
+      "type": "scene",
+      "elements": ["last cloud", "climate facility", "curators", "schoolchildren", "preservation", "blue sky"]
+    },
+    {
+      "id": 240,
+      "title": "The Navigator of Dreams",
+      "description": "An old sailor who navigates through other people's sleeping minds at night — charting their dream geography, marking dangerous waters, leaving small lighthouse-flames at the frightening parts.",
+      "tags": ["dreamy", "sailor", "night", "navigation", "maps", "ocean", "protective", "surreal", "quiet"],
+      "type": "character",
+      "elements": ["dream sailor", "sleeping mind", "dream map", "lighthouse flame", "frightening parts", "navigation"]
+    },
+    {
+      "id": 241,
+      "title": "The Clockwork Hummingbird",
+      "description": "A mechanical hummingbird with gears for a heart, wings of hammered copper, eyes of deep amber glass — built by a clockmaker who missed his garden and all its real ones.",
+      "tags": ["mechanical", "hummingbird", "copper", "amber", "vintage", "craft", "nature", "lonely", "warm"],
+      "type": "character",
+      "elements": ["clockwork hummingbird", "copper wings", "amber eyes", "gear heart", "clockmaker", "garden longing"]
+    },
+    {
+      "id": 242,
+      "title": "The Girl Who Grew Moons",
+      "description": "A girl with a rooftop garden where she grows moons from seed — small ones like fruit, large ones like pumpkins. The harvest happens in autumn and the sky gets restocked for winter.",
+      "tags": ["moon", "garden", "growing", "autumn", "whimsical", "magical", "night", "rooftop", "harvest"],
+      "type": "character",
+      "elements": ["rooftop garden", "moon fruits", "harvest", "autumn", "restocking sky", "girl", "seeds"]
+    },
+    {
+      "id": 243,
+      "title": "The Clockwork Tide",
+      "description": "A coast where the tides are controlled by an enormous clockwork mechanism built into the cliff — gears exposed to the weather, wound each morning by a keeper with a giant key.",
+      "tags": ["mechanical", "ocean", "tide", "gears", "cliff", "morning", "craft", "surreal", "keeper"],
+      "type": "scene",
+      "elements": ["clockwork mechanism", "cliff", "gears", "tide keeper", "giant key", "winding", "coastal"]
+    },
+    {
+      "id": 244,
+      "title": "The Afternoon Made of Gold",
+      "description": "A single long summer afternoon that is so golden it leaves stains — on the grass, on the skin of people in it, on their memories. Years later they still find traces of that particular light.",
+      "tags": ["golden", "summer", "afternoon", "warm", "nostalgic", "poetic", "memory", "light", "stain"],
+      "type": "illustration",
+      "elements": ["golden light", "stained grass", "stained skin", "memory trace", "long afternoon", "summer warmth"]
+    },
+    {
+      "id": 245,
+      "title": "The Weight of Blue",
+      "description": "A scientist studying the physical weight of different blues — the heaviness of midnight blue versus the lightness of sky blue, the particular heft of the sea on a grey day.",
+      "tags": ["blue", "science", "colour", "surreal", "water", "sky", "curious", "grey", "night"],
+      "type": "character",
+      "elements": ["blue shades", "midnight blue", "sky blue", "grey sea", "measuring weight", "scientist"]
+    },
+    {
+      "id": 246,
+      "title": "The Cloud Archive",
+      "description": "A library where every cloud formation ever recorded is kept — daguerreotypes of Victorian cumulus, painted stratus from Renaissance Italy, the cloud that appeared the day the war ended.",
+      "tags": ["clouds", "archive", "Victorian", "sky", "historical", "library", "quiet", "collection", "nostalgic"],
+      "type": "scene",
+      "elements": ["cloud archive", "daguerreotypes", "Victorian clouds", "Renaissance stratus", "historical sky", "peace cloud"]
+    },
+    {
+      "id": 247,
+      "title": "The Bioluminescent Letters",
+      "description": "A coastline where the bioluminescent organisms form letters in the breaking waves — brief phosphorescent words in the dark water, different each night, in languages no shore-side scholar can identify.",
+      "tags": ["ocean", "glow", "dark", "mysterious", "language", "blue", "night", "waves", "bioluminescence"],
+      "type": "scene",
+      "elements": ["bioluminescent letters", "breaking waves", "dark water", "unknown language", "night coast", "phosphorescent"]
+    },
+    {
+      "id": 248,
+      "title": "The Portrait Painter of Clouds",
+      "description": "An artist who paints formal portraits of clouds — each cloud sitting still (briefly) while the painter captures their exact expression, the particular mood of their formation, their dignity.",
+      "tags": ["clouds", "art", "funny", "sky", "whimsical", "formal", "portrait", "fleeting", "creative"],
+      "type": "character",
+      "elements": ["cloud portrait", "sitting cloud", "formal pose", "expression", "painter", "sky canvas"]
+    },
+    {
+      "id": 249,
+      "title": "The Lighthouse of Lost Sounds",
+      "description": "A lighthouse that emits sounds instead of light — broadcasting extinct bird calls, lost musical traditions, the voices of languages no one speaks. Ships navigate by it out of habit and grief.",
+      "tags": ["lighthouse", "sound", "lost", "ocean", "melancholic", "music", "dark", "extinct", "grief"],
+      "type": "scene",
+      "elements": ["lighthouse", "extinct sounds", "lost voices", "ships", "navigation by grief", "dark sea"]
+    },
+    {
+      "id": 250,
+      "title": "The Translator of Bird Songs",
+      "description": "A linguist who has devoted her life to translating birdsong — and discovered that sparrows argue about weather, crows narrate history, and nightingales compose complicated ongoing serials.",
+      "tags": ["birds", "language", "funny", "surreal", "curious", "nature", "music", "storytelling", "discovery"],
+      "type": "character",
+      "elements": ["linguist", "sparrows", "crows", "nightingales", "translation", "bird language", "ongoing story"]
+    },
+    {
+      "id": 251,
+      "title": "The Mapmaker's Last Map",
+      "description": "An aged mapmaker drawing their final map — not of any place in the world, but of themselves. Mountains of old resolve, rivers of kindness, a small lake of regrets, a harbor full of names.",
+      "tags": ["maps", "aged", "poetic", "emotional", "introspective", "nostalgic", "self", "life", "warm"],
+      "type": "character",
+      "elements": ["aged mapmaker", "self-map", "mountains of resolve", "river of kindness", "names harbor", "final work"]
+    },
+    {
+      "id": 252,
+      "title": "The Night That Lasted a Painting",
+      "description": "A night so long and beautiful it was painted in real time — the artist chasing it hour by hour, the canvas growing rightward as more dark sky appeared, dawn finally outrunning the brushes.",
+      "tags": ["night", "art", "beautiful", "stars", "long", "poetic", "dark", "painting", "dawn"],
+      "type": "illustration",
+      "elements": ["long night", "expanding canvas", "chasing darkness", "stars", "dawn outrunning", "brush strokes"]
+    },
+    {
+      "id": 253,
+      "title": "The Terrarium of Moments",
+      "description": "A glass terrarium containing living moments — a first handshake still happening in miniature, a laugh still ringing, an embrace still mid-embrace. Tended daily with careful watering.",
+      "tags": ["glass", "miniature", "time", "surreal", "emotional", "preserved", "warm", "moments", "terrarium"],
+      "type": "still life",
+      "elements": ["terrarium", "miniature moments", "handshake", "laugh", "embrace", "living preservation"]
+    },
+    {
+      "id": 254,
+      "title": "The Cartographer of Grief",
+      "description": "A hand-drawn map of grief — the first days a great featureless grey plain, then gradually a topography emerges: hills of good days, the recurring river, the eventual small harbor.",
+      "tags": ["grief", "map", "emotional", "poetic", "healing", "dark", "introspective", "journey", "cartography"],
+      "type": "map",
+      "elements": ["grief landscape", "grey plain", "topography", "good day hills", "recurring river", "harbor"]
+    },
+    {
+      "id": 255,
+      "title": "The Bakery That Opens at 4am",
+      "description": "A bakery that opens at 4am, just for the night workers, the insomniacs, the early mourners. The bread is different at that hour — denser with quiet, the crust a shade darker.",
+      "tags": ["bakery", "night", "4am", "quiet", "warm", "cozy", "bread", "insomnia", "melancholic"],
+      "type": "scene",
+      "elements": ["bakery", "4am", "night workers", "insomniacs", "dark bread", "quiet loaves", "warm light"]
+    },
+    {
+      "id": 256,
+      "title": "The Island of Misremembered Summers",
+      "description": "An island you can only find if you follow a summer you half-remember — the one that might have been the best one, or might not have happened quite that way. The island is warm either way.",
+      "tags": ["summer", "island", "nostalgic", "dreamy", "memory", "warm", "golden", "melancholic", "surreal"],
+      "type": "scene",
+      "elements": ["island", "misremembered summer", "half-memory", "warm", "golden haze", "discovery"]
+    },
+    {
+      "id": 257,
+      "title": "The Ornithologist of Impossible Birds",
+      "description": "A scientist who studies birds that shouldn't exist — the Grief-Finch, the Nostalgia Swift, the Dream-Petrel. She has extensive field notes and a complete illustrated guide.",
+      "tags": ["birds", "science", "surreal", "funny", "creative", "curious", "nature", "illustrated", "emotion"],
+      "type": "character",
+      "elements": ["ornithologist", "impossible birds", "grief-finch", "dream-petrel", "field notes", "illustrated guide"]
+    },
+    {
+      "id": 258,
+      "title": "The Forest That Migrates",
+      "description": "A forest that, every hundred years, lifts its roots and walks slowly to a new location — leaving cleared land dotted with perfect root-holes, arriving somewhere that needed trees.",
+      "tags": ["forest", "migration", "nature", "surreal", "ancient", "magical", "vast", "slow", "green"],
+      "type": "scene",
+      "elements": ["walking forest", "root holes", "migration path", "needed place", "ancient trees", "slow movement"]
+    },
+    {
+      "id": 259,
+      "title": "The Harbour of Almost-Departures",
+      "description": "A harbour full of ships that almost left — boats permanently mid-departure, gangplanks half-raised, ropes half-untied, passengers looking back at a shore they couldn't quite leave.",
+      "tags": ["ocean", "departure", "melancholic", "harbour", "ships", "longing", "poetic", "in-between", "surreal"],
+      "type": "scene",
+      "elements": ["harbour", "half-departed ships", "raised gangplank", "untied ropes", "looking back", "departure"]
+    },
+    {
+      "id": 260,
+      "title": "The Snow Geologist",
+      "description": "A geologist studying the layers of snow like geological strata — each layer a different storm, a different year. The oldest layer at the bottom is a snowstorm from 1847, still perfectly cold.",
+      "tags": ["snow", "science", "winter", "cold", "ancient", "layers", "curious", "historical", "detail"],
+      "type": "character",
+      "elements": ["snow layers", "geological strata", "storm layers", "1847 snowstorm", "cold core", "geologist"]
+    },
+    {
+      "id": 261,
+      "title": "The Collector of First Words",
+      "description": "A linguist who travels the world collecting the very first word spoken by each language — tiny audio recordings in clay jars, labeled by language and date. The oldest jar is 8,000 years old.",
+      "tags": ["language", "ancient", "collection", "quiet", "curious", "history", "sound", "clay", "poetic"],
+      "type": "character",
+      "elements": ["clay jars", "first words", "audio", "8000 years", "linguist", "ancient language", "collection"]
+    },
+    {
+      "id": 262,
+      "title": "The Roof Garden of a Skyscraper in Winter",
+      "description": "A rooftop garden 80 floors up in deep winter — frost-covered vegetables, pigeons huddled under kale, a small snow-dusted shed where someone grows tomatoes against all reason, city spread below.",
+      "tags": ["winter", "city", "garden", "rooftop", "cold", "stubborn", "tomatoes", "snow", "pigeons"],
+      "type": "scene",
+      "elements": ["rooftop garden", "skyscraper", "frost", "kale", "tomatoes", "snow", "stubborn growth"]
+    },
+    {
+      "id": 263,
+      "title": "The Keeper of Unlit Candles",
+      "description": "A caretaker who tends thousands of unlit candles in a vast dark warehouse — never lighting them, only dusting, replacing, keeping them ready. They are for the moment everyone decides at once.",
+      "tags": ["dark", "candles", "waiting", "poetic", "quiet", "mysterious", "hopeful", "vast", "preparation"],
+      "type": "scene",
+      "elements": ["candles", "dark warehouse", "unlit", "keeper", "waiting", "readiness", "all at once"]
+    },
+    {
+      "id": 264,
+      "title": "The Museum of Doorknobs",
+      "description": "A museum dedicated entirely to doorknobs from significant doors — the knob from a room where a great decision was made, from a door never opened, from a door that opened everything.",
+      "tags": ["museum", "doorknobs", "quiet", "poetic", "history", "decision", "surreal", "objects", "funny"],
+      "type": "scene",
+      "elements": ["doorknobs", "museum", "significant doors", "decision room", "never-opened door", "historical metal"]
+    },
+    {
+      "id": 265,
+      "title": "The Cartographer Who Drew the Ocean Floor",
+      "description": "A Victorian cartographer who spent 40 years drawing the ocean floor from imagination alone — and was later found to be almost entirely correct. The mountains are in the right places. The abysses too.",
+      "tags": ["ocean", "maps", "Victorian", "imagination", "surreal", "discovery", "deep", "accuracy", "wonder"],
+      "type": "character",
+      "elements": ["Victorian cartographer", "ocean floor map", "imagination accuracy", "40 years", "abysses", "mountains"]
+    },
+    {
+      "id": 266,
+      "title": "The Afternoon in the Amber",
+      "description": "A summer afternoon caught in a piece of amber — the light still warm inside, a dragonfly mid-hover, the particular quality of 3pm in July, preserved for 65 million years.",
+      "tags": ["amber", "summer", "ancient", "warm", "golden", "preserved", "afternoon", "dragonfly", "time"],
+      "type": "still life",
+      "elements": ["amber", "dragonfly", "summer afternoon", "3pm July", "preserved warmth", "65 million years"]
+    },
+    {
+      "id": 267,
+      "title": "The Storm Cellar of Feelings",
+      "description": "A storm cellar where the owner has stored decades of difficult feelings — lined up in jars like preserves, labeled with dates and context. They visit sometimes, just to check things are still there.",
+      "tags": ["emotional", "dark", "preserves", "surreal", "introspective", "melancholic", "storage", "jars", "dated"],
+      "type": "scene",
+      "elements": ["storm cellar", "feeling jars", "labeled dates", "context notes", "visiting", "lined shelves"]
+    },
+    {
+      "id": 268,
+      "title": "The Postal Route Through the Mountains",
+      "description": "A postal route so remote it is still served on horseback — one rider, six mountain passes, letters that take three weeks to arrive, still sealed with wax, always exactly delivered.",
+      "tags": ["mountain", "journey", "nostalgic", "dedicated", "remote", "horse", "letters", "cold", "travel"],
+      "type": "scene",
+      "elements": ["mountain postal route", "horse rider", "wax seals", "six passes", "three weeks", "remote delivery"]
+    },
+    {
+      "id": 269,
+      "title": "The Ghost of Summer Past",
+      "description": "The ghost of a particularly good summer haunting a house — the scent of sunscreen in winter rooms, warmth on a cold staircase where someone once stood in sunlight, the echo of a garden party.",
+      "tags": ["ghost", "summer", "nostalgic", "warm", "melancholic", "haunting", "scent", "memory", "seasonal"],
+      "type": "scene",
+      "elements": ["summer ghost", "sunscreen scent", "winter rooms", "warm staircase", "garden party echo"]
+    },
+    {
+      "id": 270,
+      "title": "The Painter of Invisible Things",
+      "description": "An artist who paints only things that cannot be seen — wind direction, the weight of an apology, the texture of embarrassment, the particular shape of missing someone. Sold out every show.",
+      "tags": ["art", "invisible", "emotional", "surreal", "creative", "poetic", "colour", "abstract", "feeling"],
+      "type": "character",
+      "elements": ["painter", "invisible subjects", "wind", "apology weight", "embarrassment texture", "missing"]
+    },
+    {
+      "id": 271,
+      "title": "The Coral Reef at Midnight",
+      "description": "A coral reef that transforms completely at midnight — daytime creatures retreat, the night colony emerges, bioluminescent polyps open, and the whole reef glows in colours unseen by day.",
+      "tags": ["ocean", "midnight", "glow", "dark", "blue", "night", "coral", "transformation", "beautiful"],
+      "type": "scene",
+      "elements": ["coral reef", "midnight", "night colony", "bioluminescent polyps", "unseen colours", "glow"]
+    },
+    {
+      "id": 272,
+      "title": "The Giant's Rocking Chair",
+      "description": "An enormous rocking chair in a mountain meadow — weathered, mossy, enormous — where a giant once sat. Still rocking, very slowly, from the momentum of when they last rose, centuries ago.",
+      "tags": ["giant", "ancient", "meadow", "slow", "surreal", "nature", "vast", "poetic", "creaking"],
+      "type": "scene",
+      "elements": ["giant rocking chair", "meadow", "moss", "slow rocking", "centuries momentum", "weathered wood"]
+    },
+    {
+      "id": 273,
+      "title": "The Storm Diarist",
+      "description": "A meteorologist who writes diary entries as if the storms are people — 'She arrived at 4pm, exhausted from the Atlantic. She brought heavy rain but her lightning was controlled, almost careful.'",
+      "tags": ["storm", "diary", "funny", "surreal", "poetic", "weather", "personified", "rain", "lightning"],
+      "type": "character",
+      "elements": ["storm diary", "personified weather", "Atlantic storm", "careful lightning", "meteorologist", "diary entries"]
+    },
+    {
+      "id": 274,
+      "title": "Planetarium for One",
+      "description": "A portable planetarium — a small dome that unfolds in any room, projecting a private cosmos on the ceiling. You can change the date to any night in history and be under that exact sky.",
+      "tags": ["space", "stars", "night", "cozy", "private", "cosmos", "dreamy", "personal", "dome"],
+      "type": "still life",
+      "elements": ["portable dome", "star projection", "private cosmos", "historical sky", "ceiling stars", "any night"]
+    },
+    {
+      "id": 275,
+      "title": "The River of Intentions",
+      "description": "A river flowing not with water but with intentions — the deep current carries the strong intentions, the surface sparkles with fragile ones. The abandoned intentions pool in eddies and moss over.",
+      "tags": ["water", "surreal", "poetic", "emotional", "intentions", "flowing", "abandoned", "strong", "fragile"],
+      "type": "scene",
+      "elements": ["intention river", "strong current", "surface sparkle", "abandoned eddies", "mossy intentions"]
+    },
+    {
+      "id": 276,
+      "title": "The Collector of Unfinished Sketches",
+      "description": "An artist who collects other artists' unfinished sketches — the half-drawn bird, the portrait abandoned mid-eye, the landscape without its sky. She finds them more alive than anything completed.",
+      "tags": ["art", "unfinished", "creative", "quiet", "poetic", "sketch", "half-done", "collector", "alive"],
+      "type": "character",
+      "elements": ["unfinished sketches", "half-drawn bird", "abandoned portrait", "collection", "incomplete beauty"]
+    },
+    {
+      "id": 277,
+      "title": "The Underground River of Light",
+      "description": "A subterranean river made of light — bending through caves in luminous curves, refracting off underground crystals, fish made of photons darting in bright schools through the dark rock.",
+      "tags": ["underground", "light", "crystal", "cave", "surreal", "dark", "fish", "bright", "dreamy"],
+      "type": "scene",
+      "elements": ["light river", "caves", "crystal refraction", "photon fish", "dark rock", "luminous curves"]
+    },
+    {
+      "id": 278,
+      "title": "The Cartographer of Sleep",
+      "description": "A sleep scientist who maps the territory of different people's sleeps — the vast open plains of deep dreamless sleep, the crowded city of REM, the border country of half-waking.",
+      "tags": ["sleep", "dreamy", "science", "map", "quiet", "surreal", "REM", "deep sleep", "curious"],
+      "type": "character",
+      "elements": ["sleep map", "deep sleep plains", "REM city", "half-waking border", "different sleeps", "mapping"]
+    },
+    {
+      "id": 279,
+      "title": "The Paper Boat Harbour",
+      "description": "A harbour entirely for paper boats — the serious origami frigate, the hastily torn receipt boat, the lovingly folded newspaper vessel. Each has log books written in pencil, ports of call imagined.",
+      "tags": ["paper", "boats", "water", "whimsical", "playful", "tiny", "harbour", "cute", "creative"],
+      "type": "scene",
+      "elements": ["paper boats", "harbour", "origami frigate", "receipt boat", "log books", "pencil", "imagination"]
+    },
+    {
+      "id": 280,
+      "title": "The Archive of Sky",
+      "description": "A vast storage facility containing every photographed sky from every day since photography was invented — an unbroken record of the sky above every city, organized by cloud type and year.",
+      "tags": ["sky", "archive", "clouds", "history", "photography", "vast", "quiet", "organized", "collection"],
+      "type": "scene",
+      "elements": ["sky archive", "photograph rows", "cloud types", "historical sky", "organized", "every day"]
+    },
+    {
+      "id": 281,
+      "title": "The Last Keeper of Snowflakes",
+      "description": "A scientist who catches individual snowflakes and preserves them under cold glass — each one photographed, catalogued, named. The collection covers 40 winters. No two are the same.",
+      "tags": ["snow", "winter", "science", "delicate", "collection", "cold", "unique", "detail", "quiet"],
+      "type": "character",
+      "elements": ["snowflakes", "cold glass", "photography", "40 winters", "catalogue", "unique", "preservation"]
+    },
+    {
+      "id": 282,
+      "title": "The House that Remembers Everyone",
+      "description": "An old house that has absorbed the memories of all who lived there — the wallpaper holds conversations, the stairs remember different footsteps, the kitchen still smells of someone's grandmother.",
+      "tags": ["home", "memory", "nostalgic", "warm", "poetic", "ghost", "surreal", "old", "layers"],
+      "type": "scene",
+      "elements": ["old house", "memory wallpaper", "footstep stairs", "grandmother scent", "layers", "absorbed history"]
+    },
+    {
+      "id": 283,
+      "title": "The Moth Observatory",
+      "description": "An observatory built not for stars but for moths — giant lenses for watching their flight patterns, recording their responses to different lights, translating their wing-language over generations.",
+      "tags": ["moths", "science", "night", "observation", "glow", "nature", "patient", "dark", "curious"],
+      "type": "scene",
+      "elements": ["moth observatory", "giant lenses", "flight patterns", "wing language", "light response", "generations"]
+    },
+    {
+      "id": 284,
+      "title": "Rain Garden in a Dream",
+      "description": "A garden that exists only in dreams and grows only during dreamed rain — the flowers are colours that don't exist in waking life, the soil is made of pressed memory, the rain sounds like your name.",
+      "tags": ["dream", "garden", "rain", "impossible colour", "memory soil", "name", "soft", "surreal", "night"],
+      "type": "scene",
+      "elements": ["dream garden", "dreamed rain", "impossible colours", "memory soil", "name sound", "flowers"]
+    },
+    {
+      "id": 285,
+      "title": "The Polar Flower",
+      "description": "A single flower growing in the deep arctic — it shouldn't survive but does, its petals made thicker each year, adapting, finding sunlight at its own angle, blooming briefly every June.",
+      "tags": ["arctic", "flower", "resilience", "cold", "hopeful", "nature", "bloom", "summer", "survival"],
+      "type": "illustration",
+      "elements": ["arctic flower", "thick petals", "angled sunlight", "June bloom", "deep cold", "survival"]
+    },
+    {
+      "id": 286,
+      "title": "The Fog Census",
+      "description": "A government department that counts the fog — fog density, fog hours, fog types, fog opinions. Their annual report is the most beautiful government document ever produced, printed on vellum.",
+      "tags": ["fog", "funny", "grey", "surreal", "bureaucratic", "quiet", "census", "morning", "beautiful"],
+      "type": "still life",
+      "elements": ["fog census report", "density measurements", "fog types", "vellum document", "fog hours", "department"]
+    },
+    {
+      "id": 287,
+      "title": "The Conservatory in Winter",
+      "description": "A glass conservatory in deep winter — inside: tropical heat, humidity, enormous plants pressing against the glass; outside: snow against the panes, frost patterns fighting the warmth.",
+      "tags": ["winter", "warmth", "contrast", "glass", "green", "tropical", "cozy", "snow", "plants"],
+      "type": "scene",
+      "elements": ["conservatory", "tropical inside", "snow outside", "glass panes", "frost patterns", "humidity", "contrast"]
+    },
+    {
+      "id": 288,
+      "title": "The Geologist Who Studies Hearts",
+      "description": "A geologist who applies her expertise to human hearts — identifying sedimentary layers of long relationships, igneous rock of sudden love, fossils of people once important, fault lines of old pain.",
+      "tags": ["geological", "emotional", "surreal", "poetic", "heart", "love", "layers", "pain", "science"],
+      "type": "character",
+      "elements": ["geologist", "heart strata", "sedimentary love", "igneous affection", "fossilized people", "fault lines"]
+    },
+    {
+      "id": 289,
+      "title": "The Town That Runs on Candlelight",
+      "description": "A small town that refuses electricity, lit entirely by candles — every window warm and flickering, the streets navigated by lamplight, every face softened by the logic of flame.",
+      "tags": ["candles", "warm", "soft", "golden", "old", "quiet", "community", "night", "flickering"],
+      "type": "scene",
+      "elements": ["candlelit town", "flickering windows", "lamplight streets", "warm faces", "no electricity", "soft community"]
+    },
+    {
+      "id": 290,
+      "title": "Portrait of Rain on a Window",
+      "description": "An extreme close-up illustration of rain on glass — each drop a lens showing a distorted street below, some drops joining, the collective making a map of the world outside, inverted and scattered.",
+      "tags": ["rain", "glass", "detail", "window", "blue", "quiet", "reflection", "distortion", "abstract"],
+      "type": "illustration",
+      "elements": ["rain drops", "glass lens", "distorted street", "merging drops", "inverted world", "window surface"]
+    },
+    {
+      "id": 291,
+      "title": "The Forest of Kept Promises",
+      "description": "A forest where each tree represents a kept promise — the oldest trees are centuries old, their roots deep, their canopies wide. Small new saplings grow at the edges every season.",
+      "tags": ["forest", "promises", "nature", "hopeful", "warm", "ancient", "green", "poetic", "growth"],
+      "type": "scene",
+      "elements": ["promise trees", "old canopies", "deep roots", "new saplings", "forest edge", "kept word"]
+    },
+    {
+      "id": 292,
+      "title": "The Star Diver",
+      "description": "An athlete who dives into star clusters rather than water — the entry point a shimmer in the night sky, the plunge through warm stellar gas, emerging starlit on the other side.",
+      "tags": ["stars", "space", "athletic", "surreal", "warm", "night", "dreamy", "dive", "shimmer"],
+      "type": "character",
+      "elements": ["star diver", "night entry", "stellar gas", "shimmer point", "emerging", "starlit exit"]
+    },
+    {
+      "id": 293,
+      "title": "The Cartographer's Apprentice",
+      "description": "A young apprentice learning to draw maps — making small errors that become beautiful: a mountain placed too far west, a river that meanders more than it should, a coast full of bays.",
+      "tags": ["maps", "learning", "young", "creative", "warm", "beautiful errors", "cartography", "poetic", "craft"],
+      "type": "character",
+      "elements": ["apprentice", "imperfect map", "western mountain", "meandering river", "bay coast", "learning"]
+    },
+    {
+      "id": 294,
+      "title": "The Sundial's Shadow in Winter",
+      "description": "A sundial in deep winter, its shadow fallen at angles it never reaches in summer — reading times the sundial has no name for, hours between what's numbered, measuring the unnamed.",
+      "tags": ["winter", "time", "sundial", "shadow", "quiet", "poetic", "unnamed", "cold", "light"],
+      "type": "still life",
+      "elements": ["sundial", "winter shadow", "unnamed angles", "low light", "unnamed hours", "cold stone"]
+    },
+    {
+      "id": 295,
+      "title": "The Night Shepherd",
+      "description": "A shepherd of nights — herding darknesses of different depths from one horizon to another, keeping the black nights separate from the blue-grey ones, ensuring each city gets its proper dark.",
+      "tags": ["night", "dark", "shepherd", "surreal", "sky", "whimsical", "blue", "poetic", "celestial"],
+      "type": "character",
+      "elements": ["night shepherd", "dark varieties", "black night", "blue-grey night", "horizon", "city darkness"]
+    },
+    {
+      "id": 296,
+      "title": "The Collector of Sunrises",
+      "description": "A traveler who has spent forty years chasing sunrises — rising before dawn in 200 countries, each one documented in watercolor, the collection a complete atlas of how light begins.",
+      "tags": ["sunrise", "travel", "art", "dedicated", "golden", "dawn", "worldwide", "watercolor", "collection"],
+      "type": "character",
+      "elements": ["traveler", "40 years", "200 countries", "watercolor sunrise", "dawn atlas", "light beginning"]
+    },
+    {
+      "id": 297,
+      "title": "The Tide Table of Feelings",
+      "description": "A scientific tide table but for emotional states — predicted high waters of joy, the low tides of late afternoon, warning notices for approaching waves of nostalgia, sunset grief advisories.",
+      "tags": ["emotional", "surreal", "science", "tides", "funny", "ocean", "joy", "nostalgia", "advisory"],
+      "type": "illustration",
+      "elements": ["tide table", "emotional highs", "afternoon low", "nostalgia warning", "grief advisory", "predicted feelings"]
+    },
+    {
+      "id": 298,
+      "title": "The Old Bell That Rings Tomorrow",
+      "description": "A church bell that, due to a mysterious warping of time, always rings twelve hours before it should — waking people at midnight, announcing noon at dawn. No one has fixed it. They rely on it.",
+      "tags": ["time", "surreal", "bell", "midnight", "dawn", "town", "quirky", "poetic", "reliable"],
+      "type": "scene",
+      "elements": ["church bell", "wrong time", "midnight noon", "dawn midnight", "town reliance", "time warp"]
+    },
+    {
+      "id": 299,
+      "title": "The Migration of Candles",
+      "description": "Each autumn, unlit candles migrate southward — found in drawers, taken from shelves, moving in small wavering lines toward warmer rooms. No one mentions it. Everyone prepares for winter.",
+      "tags": ["candles", "autumn", "migration", "surreal", "warm", "cozy", "funny", "winter", "gentle"],
+      "type": "scene",
+      "elements": ["migrating candles", "drawers", "winter preparation", "southward movement", "unlit", "warm rooms"]
+    },
+    {
+      "id": 300,
+      "title": "The One Who Stays While Everyone Leaves",
+      "description": "A figure standing at a station long after the last train — watching the platform lights go out one by one, the departure boards go blank, the café chairs stacked. Still there. Still bright.",
+      "tags": ["lonely", "night", "train", "poetic", "quiet", "melancholic", "station", "staying", "light"],
+      "type": "character",
+      "elements": ["station", "extinguished lights", "blank board", "stacked chairs", "staying figure", "last one"]
     }
   ]
 }
