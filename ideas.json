@@ -330,8 +330,8 @@
     },
     {
       "id": 42,
-      "title": "Beekeeper of Dreams",
-      "description": "A beekeeper whose hive produces not honey but dreams — golden, glowing jars of sleep collected each morning from the dreaming bees. The jars hum softly.",
+      "title": "Bee-keeper of Dreams",
+      "description": "A bee-keeper whose hive produces not honey but dreams — golden, glowing jars of sleep collected each morning from the dreaming bees. The jars hum softly.",
       "tags": ["dreamy", "golden", "cozy", "soft", "magical", "nature", "warm", "whimsical", "bees"],
       "type": "character",
       "elements": ["beekeeper", "bees", "jars", "golden", "hive", "glow", "dreaming"]
